@@ -58,7 +58,7 @@
                 <div class="navbar-flex d-flex align-items-center justify-content-between w-100 pb-2 pt-2">
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="navbar-header">
-                        <a class="navbar-brand" href="index-1.html">
+                        <a class="navbar-brand" href="index-1.php">
                             <img src="images/STSLogo/logotext-tan.png">
                             <img src="images/STSLogo/logotext-tan.png"> <!--Image next to Navigation Bar: Logo as Text-->
                         </a>
@@ -72,15 +72,15 @@
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Regions <i class="icon-arrow-down" aria-hidden="true"></i></a> 
                                 <ul class="dropdown-menu">
                                     <li><a href="blog-north.html">North</a></li>  <!---HTML link & File for North region and popular North Cities-->
-                                    <li><a href="comingsoon.html">Central</a></li> <!---HTML link & File for Central region and popular Central Cities-->
-                                    <li><a href="comingsoon.html">South</a></li> <!---HTML link & File for South region and popular South Cities-->
+                                    <li><a href="blog-central.html">Central</a></li> <!---HTML link & File for Central region and popular Central Cities-->
+                                    <li><a href="blog-south.html">South</a></li> <!---HTML link & File for South region and popular South Cities-->
                                 </ul> 
                             </li>
 
                             <li class="submenu dropdown">
                                 <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Popular Cities <i class="icon-arrow-down" aria-hidden="true"></i></a> 
                                 <ul class="dropdown-menu">
-                                    <li><a href="comingsoon.html">Rome</a></li> <!---HTML link & File -->
+                                    <li><a href="Rome.html">Rome</a></li> <!---HTML link & File -->
                                     <li><a href="comingsoon.html">Venice</a></li> <!---HTML link & File -->
                                     <li><a href="comingsoon.html">Florence</a></li> <!---HTML link & File -->
                                     <li><a href="comingsoon.html">Milan</a></li> <!---HTML link & File -->
@@ -89,13 +89,23 @@
                                  <li class="submenu dropdown">
                                     <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Popular Itineraries <i class="icon-arrow-down" aria-hidden="true"></i></a> 
                                     <ul class="dropdown-menu">
-                                        <li><a href="comingsoon.html">Child Friendly</a></li> <!---HTML link & File -->
+                                        <li><a href="child-friendly.html">Child Friendly</a></li> <!---HTML link & File -->
                                         <li><a href="comingsoon.html">Accessiblity Friendly</a></li> <!---HTML link & File -->
                                         <li><a href="comingsoon.html">Rome's Top Destinations</a></li> <!---HTML link & File -->
                                         <li><a href="comingsoon.html">Italy On a Budget</a></li> <!---HTML link & File -->
                                      </ul> 
                             <li><a href="contact.html">Contact Us</a></li> <!-- Contact HTML FILE AND LINK GOES HERE-->
-                            <li><a href="signup.html">Login</a></li>
+                            <?php if (isset($user)): ?>
+
+                                    <li><font color="white"> Hello <?= htmlspecialchars($user["name"]) ?></font></p>  </li>
+
+                                    <p><a href="logout.php" ><font color="white">Log out</font> </a></p>
+
+                                    <?php else: ?>
+
+                                    <li>
+
+                                    <a href="login.php">Login</a> or <a href="signup.html">Sign Up</a></li>
                         </ul>
                         <div class="header_sidemenu">
                             <div class="mhead">
@@ -147,19 +157,19 @@
                             <div class="about-imagelist">
                                 <ul class="d-flex justify-content-between">
                                     <li class="mr-2">
-                                        <img src="images/destination/destination7.jpg" alt="">
+                                        <img src="images/destination/aboutus/aboutus1.png" alt="">
                                     </li>
                                     <li class="mr-2">
-                                        <img src="images/destination/destination5.jpg" alt="">
+                                        <img src="images/destination/aboutus/aboutus8.png" alt="">
                                     </li>
                                     <li class="mr-2">
-                                        <img src="images/destination/destination6.jpg" alt="">
+                                        <img src="images/destination/aboutus/aboutus3.png" alt="">
                                     </li>
                                     <li class="mr-2">
-                                        <img src="images/destination/destination3.jpg" alt="">
+                                        <img src="images/destination/aboutus/aboutus4.png" alt="">
                                     </li>
                                     <li>
-                                        <img src="images/destination/destination4.jpg" alt="">
+                                        <img src="images/destination/aboutus/aboutus2.png" alt="">
                                     </li>
                                 </ul>
                             </div>
@@ -167,7 +177,7 @@
                     </div>
                     <div class="col-lg-6 col-sm-12">
                         <div class="about-image">
-                            <img src="images/destination/destination12.jpg" alt="">
+                            <img src="images/destination/aboutus/aboutus6.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -202,10 +212,10 @@
                         <div class="about-image-main">
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 mt-4 mb-4">
-                                    <img src="images/new-deal/deal3.jpg" alt="">
+                                    <img src="images/destination/aboutus/aboutuswhy1.png" alt="">
                                 </div>
                                 <div class="col-lg-6 col-md-6">
-                                    <img src="images/new-deal/deal5.jpg" alt="">
+                                    <img src="images/destination/aboutus/aboutuswhy2.png" alt="">
                                 </div>
                             </div>
                         </div>
@@ -224,18 +234,18 @@
                                 </div>
                                 <div class="why-us-content">
                                     <h4><a href="#">Advice & Support</a></h4>
-                                    <p class="mb-0">Travel worry free knowing that we're here if you need us, 24 hours a day</p>
+                                    <p class="mb-0">We are always able to help, 24 hours a day</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
                             <div class="why-us-item text-center bg-lgrey">
                                 <div class="why-us-icon mb-2">
-                                    <i class="flaticon-global pink"></i>
+                                    <i class="flaticon-yatch-with-sails pink"></i>
                                 </div>
                                 <div class="why-us-content">
-                                    <h4><a href="#">Air Ticketing</a></h4>
-                                    <p class="mb-0">Travel worry free knowing that we're here if you need us, 24 hours a day</p>
+                                    <h4><a href="#">Food Adventures</a></h4>
+                                    <p class="mb-0">Finding ways to learn about the Food of Italy is important</p>
                                 </div>
                             </div>
                         </div>
@@ -246,7 +256,7 @@
                                 </div>
                                 <div class="why-us-content">
                                     <h4><a href="#">Hotel Services</a></h4>
-                                    <p class="mb-0">Travel worry free knowing that we're here if you need us, 24 hours a day</p>
+                                    <p class="mb-0">We provide hotel options close by to popular destination sites.</p>
                                 </div>
                             </div>
                         </div>
@@ -257,8 +267,8 @@
                                     <i class="flaticon-location-pin pink"></i>
                                 </div>
                                 <div class="why-us-content">
-                                    <h4><a href="#">Tour Packages</a></h4>
-                                    <p class="mb-0">Travel worry free knowing that we're here if you need us, 24 hours a day</p>
+                                    <h4><a href="#">Pre Built Itineraries</a></h4>
+                                    <p class="mb-0">Downloadable and sharable itineraries for easy convenience</p>
                                 </div>
                             </div>
                         </div>
@@ -269,91 +279,6 @@
         </div>
     </section>
     <!-- about-us ends -->
-
-    <!-- our teams starts -->
-    <section class="our-team pb-4">
-        <div class="container">
-            <div class="section-title text-center mb-5 pb-2 w-50 mx-auto">
-                <h2 class="m-0">Our <span>Team & Guide</span></h2>
-                <p class="mb-0">Travel has helped us to understand the meaning of life and it has helped us become better people. Each time we travel, we see the world with new eyes.</p>
-            </div>  
-            <div class="team-main">
-                <div class="row shop-slider">
-                    <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
-                        <div class="team-list">
-                            <div class="team-image">
-                                <img src="images/team/img1.jpg" alt="team">
-                            </div>
-                            <div class="team-content1 text-center">
-                               <h4 class="mb-0 pink">Salmon Thuir</h4>
-                                <p class="mb-0">Cheif Officer</p>
-                                
-                            </div>
-                            
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
-                        <div class="team-list">
-                            <div class="team-image">
-                                <img src="images/team/img2.jpg" alt="team">
-                            </div>
-                            <div class="team-content1 text-center">
-                               <h4 class="mb-0 pink">Horke Pels</h4>
-                                <p class="mb-0">Head Chef</p>
-                                
-                            </div>
-                            
-                            
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
-                        <div class="team-list">
-                            <div class="team-image">
-                                <img src="images/team/img4.jpg" alt="team">
-                            </div>
-                            <div class="team-content1 text-center">
-                               <h4 class="mb-0 pink">Solden kalos</h4>
-                                <p class="mb-0">Supervisor</p>
-                                
-                            </div>
-                            
-                            
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
-                        <div class="team-list">
-                            <div class="team-image">
-                                <img src="images/team/img3.jpg" alt="team">
-                            </div>
-                            <div class="team-content1 text-center">
-                               <h4 class="mb-0 pink">Nelson Bam</h4>
-                                <p class="mb-0">Quality Assurance</p>
-                                
-                            </div>
-                            
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
-                        <div class="team-list">
-                            <div class="team-image">
-                                <img src="images/team/img5.jpg" alt="team">
-                            </div>
-                            <div class="team-content1 text-center">
-                               <h4 class="mb-0 pink">Cacics Coold</h4>
-                                <p class="mb-0">Asst. Chef</p>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- our teams Ends -->
 
     <!-- content-line start -->
     <div class="content-line bg-navy pb-6 pt-6">
@@ -366,7 +291,7 @@
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-3">
-                        <a href="" class="nir-btn">Fine More Destination</a>
+                        <a href="contact.html" class="nir-btn">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -388,7 +313,7 @@
                             <p class="m-0">Lorem Ipsum is simply dummy text of the printing andypesetting industry. Lorem ipsum a simple Lorem Ipsum has been the industry's standard dummy hic et quidem. Dignissimos maxime velit unde inventore quasi vero dolorem.</p>
                         </div>
                         <div class="author-info mt-2">
-                            <a href="#"><img src="images/testimonial/img1.jpg" alt=""></a>
+                            <a href="#"><img src="images/destination/testimonial/testimonial1.png" alt=""></a>
                             <div class="author-title">
                                 <h4 class="m-0 pink">Jared Erondu</h4>
                                 <span>Supervisor</span>
@@ -403,7 +328,7 @@
                             <p class="m-0">Lorem Ipsum is simply dummy text of the printing andypesetting industry. Lorem ipsum a simple Lorem  Ipsum has been the industry's standard dummy hic et quidem. Dignissimos maxime velit unde inventore quasi vero dolorem.</p>
                         </div>
                         <div class="author-info mt-2">
-                            <a href="#"><img src="images/testimonial/img2.jpg" alt=""></a>
+                            <a href="#"><img src="images/destination/testimonial/testimonial2.png" alt=""></a>
                             <div class="author-title">
                                 <h4 class="m-0 pink">Cadic Vegeta</h4>
                                 <span>Sr. Chef</span>
@@ -418,7 +343,7 @@
                             <p class="m-0">Lorem Ipsum is simply dummy text of the printing andypesetting industry. Lorem ipsum a simple Lorem Ipsum has been the industry's standard dummy hic et quidem. Dignissimos maxime velit unde inventore quasi vero dolorem.</p>
                         </div>
                         <div class="author-info mt-2">
-                            <a href="#"><img src="images/testimonial/img3.jpg" alt=""></a>
+                            <a href="#"><img src="images/destination/testimonial/testimonial3.png" alt=""></a>
                             <div class="author-title">
                                 <h4 class="m-0 pink">Jonathan Beri</h4>
                                 <span>Manager</span>
@@ -505,19 +430,18 @@
     <!-- client ends -->
 
     <!-- footer starts -->
-    <footer style="background-image:url(images/bg/bg3.jpg);" class="pt-10 ">
+    <footer class="footer1 pt-10 bg-lgrey">
         <div class="footer-upper pb-5">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-4">
                         <div class="footer-links">
-                            <img src="images/STSLogo/logotext-tan.png" alt="">
-                            <p class="mt-3">
-                                In ut odio libero, at vulputate urna. Nulla tristique mi a massa convallis cursus. Nulla eu mi magna
+                            <img src="" alt="">
+                            <p class="mt-3 black">
+                                When in Rome, do as the Romans do; When elsewhere, live as they live elsewhere.
                             </p>
                             <ul>
-                                <li><strong>PO Box:</strong> +1-234-567-8900</li>
-                                <li><strong>Location:</strong> Collins Street, sydney, Australia</li>
+                                <li><strong>Mailing Address:</strong> 1000 Morris Ave, Union, NJ 07083, United States of America</li>
                                 <li><strong>Email:</strong> info@SeetheSeas.com</li>
                                 <li><strong>Website:</strong> www.SeetheSeas.com</li>
                             </ul>
@@ -525,9 +449,9 @@
                     </div>
                     <div class="col-lg-2 col-md-6 col-sm-12 col-xs-12 mb-4">
                         <div class="footer-links">
-                            <h4 class="white">Company</h4>
+                            <h4 class="black">Company</h4>
                             <ul>
-                                <li><a href="about-us.html">About Us</a></li>
+                                <li><a href="">About Us</a></li>
                                 <li><a href="#">Privacy Policy</a></li>
                                 <li><a href="#">Terms &amp; Conditions</a></li>
                                 <li><a href="#">Customer Service</a></li>
@@ -536,19 +460,19 @@
                     </div>
                     <div class="col-lg-2 col-md-6 col-sm-12 col-xs-12 mb-4">
                         <div class="footer-links">
-                            <h4 class="white">Services</h4>
+                            <h4 class="black">Services</h4>
                             <ul>
                                 <li><a href="#">Feedback</a></li>
                                 <li><a href="#">Contact us</a></li>
                                 <li><a href="#">Our Service</a></li>
-                                <li><a href="#">FAQ</a></li>
+                                <li><a href="faq.html">FAQ</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-4">
                         <div class="footer-links">
-                            <h4 class="white">Newsletter</h4>
-                            <p>Want to be notified when we launch a new template or an udpate. Just sign up and we'll send you a notification by email.</p>
+                            <h4 class="black">Newsletter</h4>
+                            <p class="black">Want to be notified when we launch a new itinerary or an udpate? Just sign up and we'll send you a notification by email.</p>
                             <div class="newsletter-form">
                                 <form>
                                     <input type="email" placeholder="Enter your email">
@@ -560,11 +484,11 @@
                 </div>
             </div>
         </div>
-        <div class="footer-copyright pt-2 pb-2">
+        <div class="footer-copyright pt-2 pb-2 border-t">
             <div class="container">
                 <div class="copyright-inner d-md-flex align-items-center justify-content-between">
                     <div class="copyright-text">
-                        <p class="m-0 white">2022 See The Seas. All rights reserved.</p>
+                        <p class="m-0 black">2022 Sea the Seas™. All rights reserved.</p>
                     </div>
                     <div class="social-links">
                         <ul>  
@@ -577,7 +501,6 @@
                 </div>    
             </div>
         </div>
-        <div class="overlay"></div>
     </footer>
     <!-- footer ends -->
     
