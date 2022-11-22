@@ -711,7 +711,7 @@ if (isset($_SESSION["user_id"])) {
                                         <div class="trend-last-main">
                                             <p class="mb-0 trend-para">This is a Roman amphitheatre in Piazza Bra, built in 30 AD. It is still in use and known world wide for the huge opera performances given there.</p>
                                             <div class="trend-last d-flex align-items-center justify-content-between">
-                                                <p class="mb-0 white d-flex align-items-center"><img src="images/reviewer/2.jpg" class="d-author mr-2" alt=""> Price: £10/person</p>
+                                                <p class="mb-0 white d-flex align-items-center">Price: £10/person</p>
                                                 <div class="trend-price">
                                                     <p class="price white mb-0"><a href="#"><i class="flaticon-like white"></i></a></p>
                                                 </div>
@@ -737,13 +737,13 @@ if (isset($_SESSION["user_id"])) {
                                                 </div>
                                                 <span class="ml-2">25 Reviews</span>
                                             </div>
-                                            <h4><a href="#">Welcome to Italy</a></h4>
+                                            <h4><a href="#">Galleria Vittorio Emanuele II</a></h4>
                                             <p class="mb-0"><i class="fa fa-eye mr-1"></i> 926 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Italy</p>
                                         </div>
                                         <div class="trend-last-main">
-                                            <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                            <p class="mb-0 trend-para">Constructed during the late 1800s, and is one of the oldest enclosed shopping malls in the world.</p>
                                             <div class="trend-last d-flex align-items-center justify-content-between">
-                                                <p class="mb-0 white d-flex align-items-center"><img src="images/reviewer/1.jpg" class="d-author mr-2" alt=""> Thu Astudillo</p> <!--<p class="price white mb-0">From <span>$350.00</span></p>-->
+                                                <p class="mb-0 white d-flex align-items-center">Price: Free</p> <!--<p class="price white mb-0">From <span>$350.00</span></p>-->
                                                 <div class="trend-price">
                                                     <p class="price white mb-0"><a href="#"><i class="flaticon-like white"></i></a></p>
                                                 </div>
