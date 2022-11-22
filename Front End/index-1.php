@@ -1,4 +1,21 @@
 <!DOCTYPE html>
+<?php
+
+session_start();
+
+if (isset($_SESSION["user_id"])) {
+
+    $mysqli = require __DIR__ . "/database.php";
+
+    $sql = "SELECT * FROM user
+            WHERE id = {$_SESSION["user_id"]}";
+
+    $result = $mysqli->query($sql);
+
+    $user = $result->fetch_assoc();
+}
+
+?>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="zxx">
 
 <head> 
@@ -72,15 +89,15 @@
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Regions <i class="icon-arrow-down" aria-hidden="true"></i></a> 
                                     <ul class="dropdown-menu">
                                         <li><a href="blog-north.html">North</a></li>  <!---HTML link & File for North region and popular North Cities-->
-                                        <li><a href="comingsoon.html">Central</a></li> <!---HTML link & File for Central region and popular Central Cities-->
-                                        <li><a href="comingsoon.html">South</a></li> <!---HTML link & File for South region and popular South Cities-->
+                                        <li><a href="blog-central.html">Central</a></li> <!---HTML link & File for Central region and popular Central Cities-->
+                                        <li><a href="blog-south.html">South</a></li> <!---HTML link & File for South region and popular South Cities-->
                                     </ul> 
                                 </li>
 
                                 <li class="submenu dropdown">
                                     <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Popular Cities <i class="icon-arrow-down" aria-hidden="true"></i></a> 
                                     <ul class="dropdown-menu">
-                                        <li><a href="rome.html">Rome</a></li> <!---HTML link & File -->
+                                        <li><a href="Rome.html">Rome</a></li> <!---HTML link & File -->
                                         <li><a href="comingsoon.html">Venice</a></li> <!---HTML link & File -->
                                         <li><a href="comingsoon.html">Florence</a></li> <!---HTML link & File -->
                                         <li><a href="comingsoon.html">Milan</a></li> <!---HTML link & File -->
@@ -89,13 +106,25 @@
                                      <li class="submenu dropdown">
                                         <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Popular Itineraries <i class="icon-arrow-down" aria-hidden="true"></i></a> 
                                         <ul class="dropdown-menu">
-                                            <li><a href="child-friendly.html">Child Friendly</a></li> <!---HTML link & File -->
+                                            <li><a href="Child Friendly.html">Child Friendly</a></li> <!---HTML link & File -->
                                             <li><a href="comingsoon.html">Accessiblity Friendly</a></li> <!---HTML link & File -->
                                             <li><a href="comingsoon.html">Rome's Top Destinations</a></li> <!---HTML link & File -->
                                             <li><a href="comingsoon.html">Italy On a Budget</a></li> <!---HTML link & File -->
                                          </ul> 
                                 <li><a href="contact.html">Contact Us</a></li> <!-- Contact HTML FILE AND LINK GOES HERE-->
-                                <li><a href="signup.html">Sign Up</a></li>
+                                <?php if (isset($user)): ?>
+
+                                    <li><font color="white"> Hello <?= htmlspecialchars($user["name"]) ?></font></p>  </li>
+
+                                    <p><a href="logout.php" ><font color="white">Log out</font> </a></p>
+
+                                    <?php else: ?>
+
+                                    <li>
+
+                                    <a href="login.php">Log in</a> or <a href="signup.html">sign up</a></li>
+
+                                <?php endif; ?>
                             </ul>
                             <div class="header_sidemenu">
                                 <div class="mhead">
@@ -547,7 +576,7 @@
                                             <p class="mb-0"><i class="fa fa-eye mr-1"></i> 852 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Florence</p>
                                         </div>
                                         <div class="trend-last-main">
-                                            <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                            <p class="mb-0 trend-para">A wonderfuls little cottage right on the seashore - perfect for exploring.</p>
                                             <div class="trend-last d-flex align-items-center justify-content-between">
                                                 <p class="mb-0 white d-flex align-items-center"><img src="images/reviewer/1.jpg" class="d-author mr-2" alt=""> Thu Astudillo</p>
                                                 <div class="trend-price">
@@ -644,13 +673,13 @@
                                                 </div>
                                                 <span class="ml-2">38 Reviews</span>
                                             </div>
-                                            <h4><a href="#"> Special Tour</a></h4>
+                                            <h4><a href="#"> Central Grand Canal</a></h4>
                                             <p class="mb-0"><i class="fa fa-eye mr-1"></i> 852 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Italy</p>
                                         </div>
                                         <div class="trend-last-main">
-                                            <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                            <p class="mb-0 trend-para">The Grand Canal is the main waterway of Venice. The Canal is lined with palaces and spanned by the Rialto Bridge.</p>
                                             <div class="trend-last d-flex align-items-center justify-content-between">
-                                                <p class="mb-0 white d-flex align-items-center"><img src="images/reviewer/1.jpg" class="d-author mr-2" alt=""> Thu Astudillo</p>
+                                                <p class="mb-0 white d-flex align-items-center">Price: £30/adult</p>
                                                 <div class="trend-price">
                                                     <p class="price white mb-0"><a href="#"><i class="flaticon-like white"></i></a></p>
                                                 </div>
@@ -676,13 +705,13 @@
                                                 </div>
                                                 <span class="ml-2">38 Reviews</span>
                                             </div>
-                                            <h4><a href="#"> Family Tour</a></h4>
+                                            <h4><a href="#"> The Arena</a></h4>
                                             <p class="mb-0"><i class="fa fa-eye mr-1"></i> 615 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Italy</p>
                                         </div>
                                         <div class="trend-last-main">
-                                            <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                            <p class="mb-0 trend-para">This is a Roman amphitheatre in Piazza Bra, built in 30 AD. It is still in use and known world wide for the huge opera performances given there.</p>
                                             <div class="trend-last d-flex align-items-center justify-content-between">
-                                                <p class="mb-0 white d-flex align-items-center"><img src="images/reviewer/2.jpg" class="d-author mr-2" alt=""> Thu Astudillo</p>
+                                                <p class="mb-0 white d-flex align-items-center"><img src="images/reviewer/2.jpg" class="d-author mr-2" alt=""> Price: £10/person</p>
                                                 <div class="trend-price">
                                                     <p class="price white mb-0"><a href="#"><i class="flaticon-like white"></i></a></p>
                                                 </div>
