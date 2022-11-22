@@ -673,11 +673,11 @@ if (isset($_SESSION["user_id"])) {
                                                 </div>
                                                 <span class="ml-2">38 Reviews</span>
                                             </div>
-                                            <h4><a href="#"> Special Tour</a></h4>
+                                            <h4><a href="#"> Central Grand Canal</a></h4>
                                             <p class="mb-0"><i class="fa fa-eye mr-1"></i> 852 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Italy</p>
                                         </div>
                                         <div class="trend-last-main">
-                                            <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                            <p class="mb-0 trend-para">The Grand Canal is the main waterway of Venice. The Canal is lined with palaces and spanned by the Rialto Bridge.</p>
                                             <div class="trend-last d-flex align-items-center justify-content-between">
                                                 <p class="mb-0 white d-flex align-items-center"><img src="images/reviewer/1.jpg" class="d-author mr-2" alt=""> Thu Astudillo</p>
                                                 <div class="trend-price">
