@@ -659,7 +659,7 @@ if (isset($_SESSION["user_id"])) {
                             <div class="col-lg-4 col-md-6 col-xs-12 mb-4">
                                 <div class="trend-item">
                                     <div class="trend-image">
-                                        <img src="images/trending/trending6.jpg" alt="image">
+                                        <img src="images/ItalyPhotos/Venice/stmark.png" alt="image">
                                     </div>
                                     <div class="trend-content-main">
                                         <div class="trend-content">
@@ -673,8 +673,8 @@ if (isset($_SESSION["user_id"])) {
                                                 </div>
                                                 <span class="ml-2">38 Reviews</span>
                                             </div>
-                                            <h4><a href="#"> Central Grand Canal</a></h4>
-                                            <p class="mb-0"><i class="fa fa-eye mr-1"></i> 852 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Italy</p>
+                                            <h4><a href="#"> The Grand Canal</a></h4>
+                                            <p class="mb-0"><i class="fa fa-eye mr-1"></i> 852 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Venice</p>
                                         </div>
                                         <div class="trend-last-main">
                                             <p class="mb-0 trend-para">The Grand Canal is the main waterway of Venice. The Canal is lined with palaces and spanned by the Rialto Bridge.</p>
@@ -691,7 +691,7 @@ if (isset($_SESSION["user_id"])) {
                             <div class="col-lg-4 col-md-6 col-xs-12 mb-4">
                                 <div class="trend-item">
                                     <div class="trend-image">
-                                        <img src="images/trending/trending5.jpg" alt="image">
+                                        <img src="images/ItalyPhotos/Verona/arena.png" alt="image">
                                     </div>
                                     <div class="trend-content-main">
                                         <div class="trend-content">
@@ -706,7 +706,7 @@ if (isset($_SESSION["user_id"])) {
                                                 <span class="ml-2">38 Reviews</span>
                                             </div>
                                             <h4><a href="#"> The Arena</a></h4>
-                                            <p class="mb-0"><i class="fa fa-eye mr-1"></i> 615 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Italy</p>
+                                            <p class="mb-0"><i class="fa fa-eye mr-1"></i> 615 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Verona</p>
                                         </div>
                                         <div class="trend-last-main">
                                             <p class="mb-0 trend-para">This is a Roman amphitheatre in Piazza Bra, built in 30 AD. It is still in use and known world wide for the huge opera performances given there.</p>
