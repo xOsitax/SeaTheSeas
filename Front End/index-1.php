@@ -741,7 +741,7 @@ if (isset($_SESSION["user_id"])) {
                                             <p class="mb-0"><i class="fa fa-eye mr-1"></i> 926 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Italy</p>
                                         </div>
                                         <div class="trend-last-main">
-                                            <p class="mb-0 trend-para">It was onstructed during the late 1800s, and is one of the oldest enclosed shopping malls in the world.</p>
+                                            <p class="mb-0 trend-para">It was constructed during the late 1800s, and is one of the oldest enclosed shopping malls in the world.</p>
                                             <div class="trend-last d-flex align-items-center justify-content-between">
                                                 <p class="mb-0 white d-flex align-items-center">Price: Free</p> <!--<p class="price white mb-0">From <span>$350.00</span></p>-->
                                                 <div class="trend-price">
