@@ -443,8 +443,8 @@ table {
   opacity: 0.7; }
 
 .dot-overlay {
-  background: #162241 url(../images/dot-overlay.png) repeat;
-  opacity: 0.6; }
+  background: #162241 url(../images/Blue.png) repeat;
+  opacity: 1; }
 
 .color-overlay {
   top: inherit;
