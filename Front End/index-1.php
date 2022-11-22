@@ -679,7 +679,7 @@ if (isset($_SESSION["user_id"])) {
                                         <div class="trend-last-main">
                                             <p class="mb-0 trend-para">The Grand Canal is the main waterway of Venice. The Canal is lined with palaces and spanned by the Rialto Bridge.</p>
                                             <div class="trend-last d-flex align-items-center justify-content-between">
-                                                <p class="mb-0 white d-flex align-items-center"><img src="images/reviewer/1.jpg" class="d-author mr-2" alt=""> Price: £30/adult</p>
+                                                <p class="mb-0 white d-flex align-items-center">Price: £30/adult</p>
                                                 <div class="trend-price">
                                                     <p class="price white mb-0"><a href="#"><i class="flaticon-like white"></i></a></p>
                                                 </div>
