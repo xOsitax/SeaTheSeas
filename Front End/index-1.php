@@ -191,7 +191,7 @@ if (isset($_SESSION["user_id"])) {
                                                 <i class="fa fa-map-marker"></i>
                                                 <select class="niceSelect">
                                                     <option value="1">Your Destination of Interest</option>
-                                                    <option value="2">Amalfi</option>
+                                                    <option value="2">Amalfi Coast</option>
                                                     <option value="3">Milan</option>
                                                     <option value="4">Positano</option>
                                                     <option value="5">Rome</option>
