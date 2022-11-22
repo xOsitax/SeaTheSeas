@@ -101,7 +101,7 @@ if (isset($_SESSION["user_id"])) {
                                 <li class="submenu dropdown">
                                     <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Popular Cities <i class="icon-arrow-down" aria-hidden="true"></i></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="">Rome</a></li> <!---HTML link & File -->
+                                        <li><a href="">Romee</a></li> <!---HTML link & File -->
                                         <li><a href="">Venice</a></li> <!---HTML link & File -->
                                         <li><a href="">Florence</a></li> <!---HTML link & File -->
                                         <li><a href="">Milan</a></li> <!---HTML link & File -->
