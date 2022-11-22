@@ -738,7 +738,7 @@ if (isset($_SESSION["user_id"])) {
                                                 <span class="ml-2">25 Reviews</span>
                                             </div>
                                             <h4><a href="#">Galleria Vittorio Emanuele II</a></h4>
-                                            <p class="mb-0"><i class="fa fa-eye mr-1"></i> 926 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Italy</p>
+                                            <p class="mb-0"><i class="fa fa-eye mr-1"></i> 926 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Milan</p>
                                         </div>
                                         <div class="trend-last-main">
                                             <p class="mb-0 trend-para">It was constructed during the late 1800s, and is one of the oldest enclosed shopping malls in the world.</p>
