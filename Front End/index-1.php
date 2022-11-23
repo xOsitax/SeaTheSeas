@@ -174,7 +174,7 @@ if (isset($_SESSION["user_id"])) {
                     <div class="col-lg-7 col-sm-12">
                         <div class="about-content pt-9">
                             <h4 class="mb-1 blue font-weight-normal">About See The Seas</h4>
-                            <h2>We're Truely Dedicated To Make Your Travel Experience in Italy As Simple And Fun As Possible.</h2>
+                            <h2>We're Truly Dedicated To Make Your Travel Experience in Italy As Simple And Fun As Possible.</h2>
                             <p class="mb-0">The goal of See the Seas is to provide all future Italian travelers with an opportunity to navigate and organize the plethora of sites and tours into one convent document that can be shared with friends and family. From spectacular cities to ancient ruins and even soaring mountains and seas, Italy is an amazing destination. Oh, we could NOT forget about food either!</p>
                         </div>
                     </div>
