@@ -157,7 +157,7 @@ if (isset($_SESSION["user_id"])) {
                 <div class="swiper-content">
                     <h4 class="white">Amazing Places</h4>
                     <h1 class="white mb-4">Explore Italy Like Never Before</h1>
-                    <a href="#" class="per-btn">
+                    <a href="destination-left.html" class="per-btn">
                       <span class="white">Discover</span>
                     <i class="fa fa-arrow-right white"></i>
                     </a>
