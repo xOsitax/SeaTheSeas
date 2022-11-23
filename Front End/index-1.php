@@ -106,7 +106,7 @@ if (isset($_SESSION["user_id"])) {
                                      <li class="submenu dropdown">
                                         <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Popular Itineraries <i class="icon-arrow-down" aria-hidden="true"></i></a> 
                                         <ul class="dropdown-menu">
-                                            <li><a href="Child Friendly.html">Child Friendly</a></li> <!---HTML link & File -->
+                                            <li><a href="child-friendly.html">Child Friendly</a></li> <!---HTML link & File -->
                                             <li><a href="comingsoon.html">Accessiblity Friendly</a></li> <!---HTML link & File -->
                                             <li><a href="comingsoon.html">Rome's Top Destinations</a></li> <!---HTML link & File -->
                                             <li><a href="comingsoon.html">Italy On a Budget</a></li> <!---HTML link & File -->
