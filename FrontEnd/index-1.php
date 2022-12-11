@@ -107,9 +107,9 @@ if (isset($_SESSION["user_id"])) {
                                         <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Popular Itineraries <i class="icon-arrow-down" aria-hidden="true"></i></a> 
                                         <ul class="dropdown-menu">
                                             <li><a href="child-friendly.html">Child Friendly</a></li> <!---HTML link & File -->
-                                            <li><a href="comingsoon.html">Accessiblity Friendly</a></li> <!---HTML link & File -->
-                                            <li><a href="comingsoon.html">Rome's Top Destinations</a></li> <!---HTML link & File -->
-                                            <li><a href="comingsoon.html">Italy On a Budget</a></li> <!---HTML link & File -->
+                                            <li><a href="accessibility-friendly.html">Accessiblity Friendly</a></li> <!---HTML link & File -->
+                                            <li><a href="rome's-top.html">Rome's Top Destinations</a></li> <!---HTML link & File -->
+                                            <li><a href="italy-budget.html">Italy On a Budget</a></li> <!---HTML link & File -->
                                          </ul> 
                                 <li><a href="contact.html">Contact Us</a></li> <!-- Contact HTML FILE AND LINK GOES HERE-->
                                 <?php if (isset($user)): ?>
