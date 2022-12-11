@@ -76,7 +76,7 @@ if (isset($_SESSION["user_id"])) {
                     <div class="navbar-flex d-flex align-items-center justify-content-between w-100 pb-2 pt-2">
                         <!-- Brand and toggle get grouped for better mobile display -->
                         <div class="navbar-header">
-                            <a class="navbar-brand" href="index-1.html">
+                            <a class="navbar-brand" href="index-1.php">
                                 <img src="images/STSLogo/logotext-tan.png" alt="text logo"> <!--Image next to Navigation Bar: Logo as Text-->
                             </a>
                         </div>
@@ -84,34 +84,34 @@ if (isset($_SESSION["user_id"])) {
                         <div class="navbar-collapse1 d-flex align-items-center" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav" id="responsive-menu">
                                 <li class="dropdown submenu active">
-                                <li><a href="about.html">About Us</a></li>
+                                <li><a href="about.php">About Us</a></li>
                                 <li class="submenu dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Regions <i class="icon-arrow-down" aria-hidden="true"></i></a> 
                                     <ul class="dropdown-menu">
-                                        <li><a href="blog-north.html">North</a></li>  <!---HTML link & File for North region and popular North Cities-->
-                                        <li><a href="blog-central.html">Central</a></li> <!---HTML link & File for Central region and popular Central Cities-->
-                                        <li><a href="blog-south.html">South</a></li> <!---HTML link & File for South region and popular South Cities-->
+                                        <li><a href="blog-north.php">North</a></li>  <!---HTML link & File for North region and popular North Cities-->
+                                        <li><a href="blog-central.php">Central</a></li> <!---HTML link & File for Central region and popular Central Cities-->
+                                        <li><a href="blog-south.php">South</a></li> <!---HTML link & File for South region and popular South Cities-->
                                     </ul> 
                                 </li>
 
                                 <li class="submenu dropdown">
                                     <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Popular Cities <i class="icon-arrow-down" aria-hidden="true"></i></a> 
                                     <ul class="dropdown-menu">
-                                        <li><a href="Rome.html">Rome</a></li> <!---HTML link & File -->
-                                        <li><a href="comingsoon.html">Venice</a></li> <!---HTML link & File -->
-                                        <li><a href="comingsoon.html">Florence</a></li> <!---HTML link & File -->
-                                        <li><a href="comingsoon.html">Milan</a></li> <!---HTML link & File -->
+                                        <li><a href="Rome.php">Rome</a></li> <!---HTML link & File -->
+                                        <li><a href="Venice.php">Venice</a></li> <!---HTML link & File -->
+                                        <li><a href="Florence.php">Florence</a></li> <!---HTML link & File -->
+                                        <li><a href="Milan.php">Milan</a></li> <!---HTML link & File -->
                                      </ul> 
                                   
                                      <li class="submenu dropdown">
                                         <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Popular Itineraries <i class="icon-arrow-down" aria-hidden="true"></i></a> 
                                         <ul class="dropdown-menu">
-                                            <li><a href="child-friendly.html">Child Friendly</a></li> <!---HTML link & File -->
-                                            <li><a href="comingsoon.html">Accessiblity Friendly</a></li> <!---HTML link & File -->
-                                            <li><a href="comingsoon.html">Rome's Top Destinations</a></li> <!---HTML link & File -->
-                                            <li><a href="comingsoon.html">Italy On a Budget</a></li> <!---HTML link & File -->
+                                        <li><a href="child-friendly.php">Child Friendly</a></li> <!---HTML link & File -->
+                                        <li><a href="accessibility-friendly.php">Accessiblity Friendly</a></li> <!---HTML link & File -->
+                                        <li><a href="rome's-top.php">Rome's Top Destinations</a></li> <!---HTML link & File -->
+                                        <li><a href="italy-budget.php">Italy On a Budget</a></li> <!---HTML link & File -->
                                          </ul> 
-                                <li><a href="contact.html">Contact Us</a></li> <!-- Contact HTML FILE AND LINK GOES HERE-->
+                                <li><a href="contact.php">Contact Us</a></li> <!-- Contact HTML FILE AND LINK GOES HERE-->
                                 <?php if (isset($user)): ?>
 
                                     <li><font color="white"> Hello <?= htmlspecialchars($user["name"]) ?></font></p>  </li>
@@ -157,7 +157,7 @@ if (isset($_SESSION["user_id"])) {
                 <div class="swiper-content">
                     <h4 class="white">Amazing Places</h4>
                     <h1 class="white mb-4">Explore Italy Like Never Before</h1>
-                    <a href="destination-left.html" class="per-btn">
+                    <a href="destination-left.php" class="per-btn">
                       <span class="white">Discover</span>
                     <i class="fa fa-arrow-right white"></i>
                     </a>
@@ -1189,9 +1189,9 @@ if (isset($_SESSION["user_id"])) {
                             <h4 class="black">Services</h4>
                             <ul>
                                 <li><a href="#">Feedback</a></li>
-                                <li><a href="#">Contact us</a></li>
+                                <li><a href="contact.php">Contact us</a></li>
                                 <li><a href="#">Our Service</a></li>
-                                <li><a href="faq.html">FAQ</a></li>
+                                <li><a href="faq.php">FAQ</a></li>
                             </ul>
                         </div>
                     </div>
