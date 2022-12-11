@@ -33,8 +33,8 @@ include "header.php"
                     <div class="col-lg-6 col-sm-12">
                         <div class="about-content">
                             <h4 class="mb-1 blue font-weight-normal">About See The Seas</h4>
-                            <h2>Were truely dedicated to make your travel experience best</h2>
-                            <p class="mb-3">Top Tour Operators and Travel Agency. We offering in total 793 tours and holidays throughout the world. Combined we have received 1532 customer reviews and an average rating of 5 out of 5 stars. <br><br>Travel has helped us to understand the meaning of life and it has helped us become better people. Each time we travel, we see the world with new eyes.</p>
+                            <h2>We are truely dedicated to make your travel experience best</h2>
+                            <p class="mb-3">See the Seas provides travelers and travel agents a way to better organize any Italian travel adventure from honeymoon vacations to weekend getaways. Each time we travel, we see the world with new eyes.</p>
                             <div class="about-imagelist">
                                 <ul class="d-flex justify-content-between">
                                     <li class="mr-2">
@@ -76,17 +76,7 @@ include "header.php"
                     <div class="col-lg-6 col-sm-12">
                         <div class="about-content">
                             <h2 class="">Why Choose Us</h2>
-                            <p class="mb-2">Top Tour Operators and Travel Agency. We offering in total 793 tours and holidays throughout the world. Combined we have received 1532 customer reviews and an average rating of 5 out of 5 stars. <br>Travel has helped us to understand the meaning of life and it has helped us become better people. Each time we travel, we see the world with new eyes.</p>
-                            <div class="about-featured mb-0">
-                                <ul>
-                                    <li>Safety Travel System</li>
-                                    <li>Budget-Friendly Tour</li>
-                                    <li>Expert Trip Planning</li>
-                                    <li>Fast Communication</li>
-                                    <li>Right Solution & Guide</li>
-                                    <li>24/7 Customer Support</li>
-                                </ul>
-                            </div>
+                            <p class="mb-2">Our main goal is to provide travelers with a manner of organizing any to-do list items while abroad as well as promoting activities that are family friendly and accessible for all. Families can spend many hours searching for the right hotel and plane ride along side any other obligations, our job is to help minimize the stress and maximize relaxation.</p>
                         </div>
                     </div>
                     <div class="col-lg-6 col-sm-12">
@@ -245,63 +235,63 @@ include "header.php"
                 <div class="col-sm-2">
                     <div class="client-logo item">
                     <a href="#">
-                        <img src="images/clients/logo-01.png" alt="" />
+                        <img src="images/clients/expedia.png" alt="Expedia Logo" />
                     </a>
                     </div>
                 </div>
                 <div class="col-sm-2">
                     <div class="client-logo item">
                         <a href="#">
-                            <img src="images/clients/logo-02.png" alt="" />
+                            <img src="images/clients/kayak.png" alt="Kayak Logo" />
                         </a>
                     </div>
                 </div>
                 <div class="col-sm-2">
                     <div class="client-logo item">
                         <a href="#">
-                            <img src="images/clients/logo-03.png" alt="" />
+                            <img src="images/clients/travelocity.png" alt="Travelocity Logo" />
                         </a>
                     </div>
                 </div>
                 <div class="col-sm-2">
                     <div class="client-logo item">
                         <a href="#">
-                            <img src="images/clients/logo-04.png" alt="" />
+                            <img src="images/clients/tripadvisor.png" alt="Trip Advisor Logo" />
                         </a>
                     </div>
                 </div>
                 <div class="col-sm-2">
                     <div class="client-logo item">
                         <a href="#">
-                            <img src="images/clients/logo-02.png" alt="" />
+                            <img src="images/clients/trivago.png" alt="Trivago Logo" />
                         </a>
                     </div>
                 </div>
                 <div class="col-sm-2">
                     <div class="client-logo item">
                         <a href="#">
-                            <img src="images/clients/logo-03.png" alt="" />
+                            <img src="images/clients/expedia.png" alt="" />
                         </a>
                     </div>
                 </div>
                 <div class="col-sm-2">
                     <div class="client-logo item">
                         <a href="#">
-                            <img src="images/clients/logo-04.png" alt="" />
+                            <img src="images/clients/kayak.png" alt="" />
                         </a>
                     </div>
                 </div>
                 <div class="col-sm-2">
                     <div class="client-logo item">
                         <a href="#">
-                            <img src="images/clients/logo-01.png" alt="" />
+                            <img src="images/clients/tripadvisor.png" alt="" />
                         </a>
                     </div>
                 </div>
                 <div class="col-sm-2">
                     <div class="client-logo item">
                         <a href="#">
-                            <img src="images/clients/logo-02.png" alt="" />
+                            <img src="images/clients/trivago.png" alt="" />
                         </a>
                     </div>
                 </div>
