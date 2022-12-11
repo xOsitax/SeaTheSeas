@@ -98,23 +98,6 @@ include "header.php"
                             </div>
                         </div>
 
-                        <!-- author detail -->
-                        <div class="blog-author mb-4 bg-grey border">
-                            <div class="blog-author-item">
-                                <div class="row d-flex justify-content-between align-items-center">
-                                    <div class="col-md-3 col-sm-3 col-xs-12">
-                                        <div class="blog-thumb text-center">
-                                            <img src="images/reviewer/1.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-9 col-sm-9 col-xs-12">
-                                        <h3 class="title pink"><a href="#">About Author <span>Laura Stump</span></a></h3>
-                                        <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sceler neque in euismod. Nam vitae urnasodales neque in faucibus.</p>
-                                    </div>
-                                    
-                                </div>        
-                            </div>
-                        </div>
 
                         <!-- blog next prev -->
                         <div class="blog-next mb-4">
@@ -122,74 +105,16 @@ include "header.php"
                                 <div class="prev pl-4">
                                     <i class="fa fa-arrow-left white"></i> 
                                     <p  class="m-0 white">Previous Post</p>
-                                    <p class="m-0 white">The bedding was hardly able</p>
+                                    <p class="m-0 white">Best Family Italian Vacation</p>
                                 </div>
                             </a>
                             <a href="#" class="float-right bg-grey">
                                 <div class="next pr-4 text-right">
                                     <i class="fa fa-arrow-right"></i>
-                                    <p class="m-0">Previous Post</p>
-                                    <p class="m-0">The bedding was hardly able</p>
+                                    <p class="m-0">Next Post</p>
+                                    <p class="m-0">When In Rome...</p>
                                 </div>
                             </a>
-                        </div>
-
-                        <!-- blog comment list -->
-                        <div class="single-comments single-box mb-4">
-                            <h4 class="mb-4">Showing 16 verified guest comments</h4>
-                            <div class="comment-box">
-                                <div class="comment-image mt-2">
-                                    <img src="images/reviewer/1.jpg" alt="image">
-                                </div>
-                                <div class="comment-content">
-                                    <h4 class="mb-1 Soldman Kell">Soldman Kell</h4>
-                                    <p class="comment-date">April 25, 2019 at 10:46 am</p>
-                                    <div class="comment-rate">
-                                        <div class="rating mar-right-15">
-                                            <span class="fa fa-star checked"></span>
-                                            <span class="fa fa-star checked"></span>
-                                            <span class="fa fa-star checked"></span>
-                                            <span class="fa fa-star checked"></span>
-                                            <span class="fa fa-star checked"></span>
-                                        </div>
-                                        <span class="comment-title">"The worst hotel ever"</span>
-                                    </div>    
-                                    
-                                    <p class="comment">Take in the iconic skyline and visit the neighbourhood hangouts that you've only ever seen on TV. Take in the iconic skyline and visit the neighbourhood.</p>
-                                    <div class="comment-like">
-                                        <div class="like-title float-left">
-                                            <a href="#" class="nir-btn mr-2">Reply</a>
-                                        </div>
-                                        
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="comment-box">
-                                <div class="comment-image mt-2">
-                                    <img src="images/reviewer/2.jpg" alt="image">
-                                </div>
-                                <div class="comment-content">
-                                    <h4 class="mb-1">Burson Lesson</h4>
-                                    <p class="comment-date">April 25, 2019 at 10:46 am</p>
-                                    <div class="comment-rate">
-                                        <div class="rating mar-right-15">
-                                            <span class="fa fa-star checked"></span>
-                                            <span class="fa fa-star checked"></span>
-                                            <span class="fa fa-star checked"></span>
-                                            <span class="fa fa-star checked"></span>
-                                            <span class="fa fa-star checked"></span>
-                                        </div>
-                                        <span class="comment-title">"Was too noisy and not suitable for business meetings"</span>
-                                    </div> 
-                                    
-                                    <p class="comment">Take in the iconic skyline and visit the neighbourhood hangouts that you've only ever seen on TV. Take in the iconic skyline and visit the neighbourhood.</p>
-                                    <div class="comment-like">
-                                        <div class="like-title float-left">
-                                            <a href="#" class="nir-btn">Reply</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
 
                         <!-- blog review -->
@@ -227,27 +152,6 @@ include "header.php"
                 <div class="col-lg-4 col-md-12">
                     <div class="sidebar-sticky">
                         <div class="list-sidebar">
-                            <div class="author-news mb-4">
-                                <div class="author-news-content">
-                                    <div class="author-thumb">
-                                        <img src="images/team/img2.jpg" alt="author">
-                                    </div>
-                                    <div class="author-content">
-                                        <span>Author News</span>
-                                        <h4 class="title mb-0"><a href="#" class="white">Relson Dulux</a></h4>
-                                        <p class="m-0">Director / Suplex World</p>
-                                        <div class="header-social">
-                                            <ul>
-                                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="dot-overlay"></div>
-                            </div>
-
                             <div class="sidebar-item mb-4">
                                 <h4 class="">All Categories</h4>
                                 <ul class="sidebar-category">
