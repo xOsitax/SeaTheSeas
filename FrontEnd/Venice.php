@@ -17,22 +17,22 @@ include "header.php"
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="slide-inner">
-                           <div class="slide-image" style="background-image:url(images/slider/1.jpg)"></div>
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Venice/accademia.png)"></div>
                         </div> 
                     </div>
                     <div class="swiper-slide">
                         <div class="slide-inner">
-                            <div class="slide-image" style="background-image:url(images/slider/2.jpg)"></div>
+                            <div class="slide-image" style="background-image:url(images/ItalyPhotos/Venice/bridsighs.png)"></div>
                         </div> 
                     </div>
                     <div class="swiper-slide">
                         <div class="slide-inner">
-                           <div class="slide-image" style="background-image:url(images/slider/3.jpg)"></div>
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Venice/burano.png)"></div>
                         </div> 
                     </div>
                     <div class="swiper-slide">
                         <div class="slide-inner">
-                           <div class="slide-image" style="background-image:url(images/slider/4.jpg)"></div>
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Venice/dogespal.png)"></div>
                         </div> 
                     </div>
                 </div>
