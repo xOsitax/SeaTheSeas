@@ -32,6 +32,36 @@ include "header.php"
                     </div>
                     <div class="swiper-slide">
                         <div class="slide-inner">
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Venice/murano.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Venice/rialbrid.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Venice/stmark.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Venice/stmarkbas.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Venice/venicelido.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Venice/piazzasanmarco.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
                            <div class="slide-image" style="background-image:url(images/ItalyPhotos/Venice/dogespal.png)"></div>
                         </div> 
                     </div>

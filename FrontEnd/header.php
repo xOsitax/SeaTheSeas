@@ -80,7 +80,7 @@ if (isset($_SESSION["user_id"])) {
                                 </li>
 
                                 <li class="submenu dropdown">
-                                    <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Popular Cities <i class="icon-arrow-down" aria-hidden="true"></i></a> 
+                                    <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Popular Locations <i class="icon-arrow-down" aria-hidden="true"></i></a> 
                                     <ul class="dropdown-menu">
                                         <li><a href="Rome.php">Rome</a></li> <!---HTML link & File -->
                                         <li><a href="Venice.php">Venice</a></li> <!---HTML link & File -->
