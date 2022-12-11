@@ -95,16 +95,16 @@ if (isset($_SESSION["user_id"])) {
                                 </li>
 
                                 <li class="submenu dropdown">
-                                    <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Popular Cities <i class="icon-arrow-down" aria-hidden="true"></i></a> 
+                                    <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Popular Locations<i class="icon-arrow-down" aria-hidden="true"></i></a> 
                                     <ul class="dropdown-menu">
                                         <li><a href="Rome.php">Rome</a></li> <!---HTML link & File -->
                                         <li><a href="Venice.php">Venice</a></li> <!---HTML link & File -->
-                                        <li><a href="Florence.php">Florence</a></li> <!---HTML link & File -->
+                                        <li><a href="Florence.php">Verona</a></li> <!---HTML link & File -->
                                         <li><a href="Milan.php">Milan</a></li> <!---HTML link & File -->
-                                        <li><a href="Rome.html">Rome</a></li> <!---HTML link & File -->
-                                        <li><a href="Venice.html">Venice</a></li> <!---HTML link & File -->
-                                        <li><a href="Florence.html">Florence</a></li> <!---HTML link & File -->
-                                        <li><a href="Milan.html">Milan</a></li> <!---HTML link & File -->
+                                        <li><a href="Rome.html">Amalfi Coast</a></li> <!---HTML link & File -->
+                                        <li><a href="Venice.html">Sicily</a></li> <!---HTML link & File -->
+                                        <li><a href="Florence.html">Positano</a></li> <!---HTML link & File -->
+                                        <li><a href="Milan.html">Tuscany</a></li> <!---HTML link & File -->
                                      </ul> 
                                   
                                      <li class="submenu dropdown">
