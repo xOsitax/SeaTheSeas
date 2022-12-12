@@ -644,9 +644,9 @@ if (isset($_SESSION["user_id"])) {
                                             <p class="mb-0"><i class="fa fa-eye mr-1"></i> 926 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Verona</p>
                                         </div>
                                         <div class="trend-last-main">
-                                            <p class="mb-0 trend-para">"""Take a moonlight tour in Verona and explore the city in the calmer evening hours with a guide. After leaving Piazza Erbe, you'll stroll around Verona's romantic alleyways and streets, listening to stories about the poets, painters, and dreamers who have fallen for the city's charms. See the Lovers' Well (Pozzo dell'Amore), Porta Borsari, and the Castelvecchio, and leave the tour armed with tips for the best wine bars in town.""
+                                            <p class="mb-0 trend-para">"Take a moonlight tour in Verona and explore the city in the calmer evening hours with a guide. After leaving Piazza Erbe, you'll stroll around Verona's romantic alleyways and streets, listening to stories about the poets, painters, and dreamers who have fallen for the city's charms. See the Lovers' Well (Pozzo dell'Amore), Porta Borsari, and the Castelvecchio, and leave the tour armed with tips for the best wine bars in town."
 
-Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Verona/Moonlighted-Verona-Evening-Walking-Tour/d945-38995P6?mcid=56757"</p>
+Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Verona/Moonlighted-Verona-Evening-Walking-Tour/d945-38995P6?mcid=56757</p>
                                             <div class="trend-last d-flex align-items-center justify-content-between">
                                                 <p class="mb-0 white d-flex align-items-center"><img src="images/reviewer/1.jpg" class="d-author mr-2" alt=""> Thu Astudillo</p>
                                                 <div class="trend-price">
@@ -948,8 +948,8 @@ Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Ver
                             </div>
                             <div class="trend-content-main">
                                 <div class="trend-content">
-                                    <h6 class="font-weight-normal"><i class="fa fa-map-marker-alt"></i> NULL</h6>
-                                    <h4><a href="#">NULL</a></h4>
+                                    <h6 class="font-weight-normal"><i class="fa fa-map-marker-alt"></i> Amalfi </h6>
+                                    <h4><a href="#">Hotel Residence Amalfi</a></h4>
                                     <div class="rating-main d-flex align-items-center">
                                         <div class="rating">
                                             <span class="fa fa-star checked"></span>
@@ -962,11 +962,11 @@ Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Ver
                                     </div>
                                 </div>
                                 <div class="trend-last-main">
-                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                    <p class="mb-0 trend-para">Hotel Residence Amalfi is 0.8 miles from Grotta dello Smeraldo.</p>
                                     <div class="trend-last d-flex align-items-center justify-content-between">
-                                        <p class="mb-0 white"><i class="fa fa-clock-o" aria-hidden="true"></i> 3 days & 2 night</p>
+                                        <p class="mb-0 white"><i class="fa fa-clock-o" aria-hidden="true"></i> 1 night</p>
                                         <div class="trend-price">
-                                            <p class="price white mb-0">From <span>$350.00</span></p>
+                                            <p class="price white mb-0">From <span>$98.00</span></p>
                                         </div>
                                     </div>
                                 </div>
@@ -983,8 +983,8 @@ Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Ver
                             </div>
                             <div class="trend-content-main">
                                 <div class="trend-content">
-                                    <h6 class="font-weight-normal"><i class="fa fa-map-marker-alt"></i> NULL</h6>
-                                    <h4><a href="#">NULL</a></h4>
+                                    <h6 class="font-weight-normal"><i class="fa fa-map-marker-alt"></i> Rome</h6>
+                                    <h4><a href="#">Residenza Paolo VI</a></h4>
                                     <div class="rating-main d-flex align-items-center">
                                         <div class="rating">
                                             <span class="fa fa-star checked"></span>
@@ -997,11 +997,11 @@ Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Ver
                                     </div>
                                 </div>
                                 <div class="trend-last-main">
-                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                    <p class="mb-0 trend-para">Residenza Paolo VI is 0.1 miles from the Vatican City.</p>
                                     <div class="trend-last d-flex align-items-center justify-content-between">
-                                        <p class="mb-0 white"><i class="fa fa-clock-o" aria-hidden="true"></i> 3 days & 2 night</p>
+                                        <p class="mb-0 white"><i class="fa fa-clock-o" aria-hidden="true"></i> 1 night</p>
                                         <div class="trend-price">
-                                            <p class="price white mb-0">From <span>$350.00</span></p>
+                                            <p class="price white mb-0">From <span>$246.00</span></p>
                                         </div>
                                     </div>
                                 </div>
@@ -1018,8 +1018,8 @@ Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Ver
                             </div>
                             <div class="trend-content-main">
                                 <div class="trend-content">
-                                    <h6 class="font-weight-normal"><i class="fa fa-map-marker-alt"></i> NULL</h6>
-                                    <h4><a href="#">NULL</a></h4>
+                                    <h6 class="font-weight-normal"><i class="fa fa-map-marker-alt"></i> Sicily</h6>
+                                    <h4><a href="#">Hotel Garibaldi</a></h4>
                                     <div class="rating-main d-flex align-items-center">
                                         <div class="rating">
                                             <span class="fa fa-star checked"></span>
@@ -1032,11 +1032,11 @@ Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Ver
                                     </div>
                                 </div>
                                 <div class="trend-last-main">
-                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                    <p class="mb-0 trend-para">Hotel Garibaldi is 0.33 miles from the Antonio Salinas Regional Archeological Museum.</p>
                                     <div class="trend-last d-flex align-items-center justify-content-between">
-                                        <p class="mb-0 white"><i class="fa fa-clock-o" aria-hidden="true"></i> 3 days & 2 night</p>
+                                        <p class="mb-0 white"><i class="fa fa-clock-o" aria-hidden="true"></i> 1 night t</p>
                                         <div class="trend-price">
-                                            <p class="price white mb-0">From <span>$350.00</span></p>
+                                            <p class="price white mb-0">From <span>$51.00</span></p>
                                         </div>
                                     </div>
                                 </div>
@@ -1053,8 +1053,8 @@ Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Ver
                             </div>
                             <div class="trend-content-main">
                                 <div class="trend-content">
-                                    <h6 class="font-weight-normal"><i class="fa fa-map-marker-alt"></i> NULL</h6>
-                                    <h4><a href="#">NULL</a></h4>
+                                    <h6 class="font-weight-normal"><i class="fa fa-map-marker-alt"></i> Venice</h6>
+                                    <h4><a href="#"> Hotel Bella Venezia</a></h4>
                                     <div class="rating-main d-flex align-items-center">
                                         <div class="rating">
                                             <span class="fa fa-star checked"></span>
@@ -1067,11 +1067,11 @@ Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Ver
                                     </div>
                                 </div>
                                 <div class="trend-last-main">
-                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                    <p class="mb-0 trend-para">Hotel Bella Venezia is 0.3 miles from the Grand Canal and within in close distance of many other tourist attractions.</p>
                                     <div class="trend-last d-flex align-items-center justify-content-between">
-                                        <p class="mb-0 white"><i class="fa fa-clock-o" aria-hidden="true"></i> 3 days & 2 night</p>
+                                        <p class="mb-0 white"><i class="fa fa-clock-o" aria-hidden="true"></i> 1 night</p>
                                         <div class="trend-price">
-                                            <p class="price white mb-0">From <span>$350.00</span></p>
+                                            <p class="price white mb-0">From <span>$133.00</span></p>
                                         </div>
                                     </div>
                                 </div>
