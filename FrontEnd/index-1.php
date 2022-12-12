@@ -562,7 +562,7 @@ if (isset($_SESSION["user_id"])) {
                             <div class="col-lg-4 col-md-6 col-xs-12 mb-4">
                                 <div class="trend-item">
                                     <div class="trend-image">
-                                        <img src="images/trending/trending2.jpg" alt="image">
+                                        <img src="images/ItalyPhotos/Sicily/aeolian.png.jpg" alt="image">
                                     </div>
                                     <div class="trend-content-main">
                                         <div class="trend-content">
@@ -576,11 +576,11 @@ if (isset($_SESSION["user_id"])) {
                                                 </div>
                                                 <span class="ml-2">38 Reviews</span>
                                             </div>
-                                            <h4><a href="#">Pasta Tour</a></h4>
-                                            <p class="mb-0"><i class="fa fa-eye mr-1"></i> 852 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Florence</p>
+                                            <h4><a href="#">Aeolian Islands</a></h4>
+                                            <p class="mb-0"><i class="fa fa-eye mr-1"></i> 852 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Sicily</p>
                                         </div>
                                         <div class="trend-last-main">
-                                            <p class="mb-0 trend-para">A wonderfuls little cottage right on the seashore - perfect for exploring.</p>
+                                            <p class="mb-0 trend-para">Seven islands, all of volcanic origin and some still active, which has created beautiful coastlines and natural attractions.</p>
                                             <div class="trend-last d-flex align-items-center justify-content-between">
                                                 <p class="mb-0 white d-flex align-items-center"><img src="images/reviewer/1.jpg" class="d-author mr-2" alt=""> Thu Astudillo</p>
                                                 <div class="trend-price">
@@ -594,7 +594,7 @@ if (isset($_SESSION["user_id"])) {
                             <div class="col-lg-4 col-md-6 col-xs-12 mb-4">
                                 <div class="trend-item">
                                     <div class="trend-image">
-                                        <img src="images/trending/trending3.jpg" alt="image">
+                                        <img src="images/ItalyPhotos/Positano/pathlemons.png" alt="image">
                                     </div>
                                     <div class="trend-content-main">
                                         <div class="trend-content">
@@ -608,11 +608,11 @@ if (isset($_SESSION["user_id"])) {
                                                 </div>
                                                 <span class="ml-2">38 Reviews</span>
                                             </div>
-                                            <h4><a href="#">Its a me Mario</a></h4>
-                                            <p class="mb-0"><i class="fa fa-eye mr-1"></i> 615 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Mushroom Kingdom</p>
+                                            <h4><a href="#">Path of Lemons</a></h4>
+                                            <p class="mb-0"><i class="fa fa-eye mr-1"></i> 615 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Positano</p>
                                         </div>
                                         <div class="trend-last-main">
-                                            <p class="mb-0 trend-para"> The princess is in another caslte</p>
+                                            <p class="mb-0 trend-para">2.4 mile hiking trail (out and back) named after a grove of lemon trees that line the path</p>
                                             <div class="trend-last d-flex align-items-center justify-content-between">
                                                 <p class="mb-0 white d-flex align-items-center"><img src="images/reviewer/2.jpg" class="d-author mr-2" alt=""> Bowser</p>
                                                 <div class="trend-price">
@@ -626,7 +626,7 @@ if (isset($_SESSION["user_id"])) {
                             <div class="col-lg-4 col-md-12 col-xs-12 mb-4">
                                 <div class="trend-item">
                                     <div class="trend-image">
-                                        <img src="images/trending/trending4.jpg" alt="image">
+                                        <img src="images/ItalyPhotos/Verona/moonlight.png" alt="image">
                                     </div>
                                     <div class="trend-content-main">
                                         <div class="trend-content">
@@ -640,11 +640,13 @@ if (isset($_SESSION["user_id"])) {
                                                 </div>
                                                 <span class="ml-2">25 Reviews</span>
                                             </div>
-                                            <h4><a href="#">NULL</a></h4>
-                                            <p class="mb-0"><i class="fa fa-eye mr-1"></i> 926 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> NULL</p>
+                                            <h4><a href="#">Verona Moonlight Walking Tour</a></h4>
+                                            <p class="mb-0"><i class="fa fa-eye mr-1"></i> 926 Visiting Places <i class="fa fa-map-marker mr-1 ml-3"></i> Verona</p>
                                         </div>
                                         <div class="trend-last-main">
-                                            <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                            <p class="mb-0 trend-para">"""Take a moonlight tour in Verona and explore the city in the calmer evening hours with a guide. After leaving Piazza Erbe, you'll stroll around Verona's romantic alleyways and streets, listening to stories about the poets, painters, and dreamers who have fallen for the city's charms. See the Lovers' Well (Pozzo dell'Amore), Porta Borsari, and the Castelvecchio, and leave the tour armed with tips for the best wine bars in town.""
+
+Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Verona/Moonlighted-Verona-Evening-Walking-Tour/d945-38995P6?mcid=56757"</p>
                                             <div class="trend-last d-flex align-items-center justify-content-between">
                                                 <p class="mb-0 white d-flex align-items-center"><img src="images/reviewer/1.jpg" class="d-author mr-2" alt=""> Thu Astudillo</p>
                                                 <div class="trend-price">
