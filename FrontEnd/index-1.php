@@ -941,7 +941,7 @@ Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Ver
                     <div class="col-lg-4 col-md-6 col-xs-12 mb-4">
                         <div class="trend-item">
                             <div class="trend-image">
-                                <img src="images/Activites/Hiking_Alps.jpg" alt="image">
+                                <img src="images/ItalyPhotos/Hotels/hotelresidenceamalfi.jpeg" alt="image">
                                 <div class="trend-tags">
                                     <a href="#"><i class="flaticon-like"></i></a>
                                 </div>
@@ -976,7 +976,7 @@ Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Ver
                     <div class="col-lg-4 col-md-6 col-xs-12 mb-4">
                         <div class="trend-item">
                             <div class="trend-image">
-                                <img src="images/trending/trending2.jpg" alt="image">
+                                <img src="images/ItalyPhotos/Hotels/residenzapaolavi.jpeg" alt="image">
                                 <div class="trend-tags">
                                     <a href="#"><i class="flaticon-like"></i></a>
                                 </div>
@@ -1011,7 +1011,7 @@ Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Ver
                     <div class="col-lg-4 col-md-6 col-xs-12 mb-4">
                         <div class="trend-item">
                             <div class="trend-image">
-                                <img src="images/trending/trending3.jpg" alt="image">
+                                <img src="images/ItalyPhotos/Hotels/hotelgaribaldi.jpeg" alt="image">
                                 <div class="trend-tags">
                                     <a href="#"><i class="flaticon-like"></i></a>
                                 </div>
@@ -1046,7 +1046,7 @@ Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Ver
                     <div class="col-lg-4 col-md-6 col-xs-12 mb-4">
                         <div class="trend-item">
                             <div class="trend-image">
-                                <img src="images/trending/trending4.jpg" alt="image">
+                                <img src="images/ItalyPhotos/Hotels/hotelbellavenezia.jpeg" alt="image">
                                 <div class="trend-tags">
                                     <a href="#"><i class="flaticon-like"></i></a>
                                 </div>
