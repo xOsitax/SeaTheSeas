@@ -114,10 +114,6 @@ if (isset($_SESSION["user_id"])) {
                                         <li><a href="accessibility-friendly.php">Accessiblity Friendly</a></li> <!---HTML link & File -->
                                         <li><a href="rome's-top.php">Rome's Top Destinations</a></li> <!---HTML link & File -->
                                         <li><a href="italy-budget.php">Italy On a Budget</a></li> <!---HTML link & File -->
-                                            <li><a href="child-friendly.html">Child Friendly</a></li> <!---HTML link & File -->
-                                            <li><a href="accessibility-friendly.html">Accessiblity Friendly</a></li> <!---HTML link & File -->
-                                            <li><a href="rome's-top.html">Rome's Top Destinations</a></li> <!---HTML link & File -->
-                                            <li><a href="italy-budget.html">Italy On a Budget</a></li> <!---HTML link & File -->
                                          </ul> 
                                 <li><a href="contact.php">Contact Us</a></li> <!-- Contact HTML FILE AND LINK GOES HERE-->
                                 <?php if (isset($user)): ?>
