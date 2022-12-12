@@ -84,7 +84,7 @@ if (isset($_SESSION["user_id"])) {
                                     <ul class="dropdown-menu">
                                         <li><a href="Rome.php">Rome</a></li> <!---HTML link & File -->
                                         <li><a href="Venice.php">Venice</a></li> <!---HTML link & File -->
-                                        <li><a href="Florence.php">Florence</a></li> <!---HTML link & File -->
+                                        <li><a href="Florence.php">Tuscany</a></li> <!---HTML link & File -->
                                         <li><a href="Milan.php">Milan</a></li> <!---HTML link & File -->
                                      </ul> 
                                   
