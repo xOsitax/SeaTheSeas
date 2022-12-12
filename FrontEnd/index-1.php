@@ -562,7 +562,7 @@ if (isset($_SESSION["user_id"])) {
                             <div class="col-lg-4 col-md-6 col-xs-12 mb-4">
                                 <div class="trend-item">
                                     <div class="trend-image">
-                                        <img src="images/ItalyPhotos/Sicily/aeolian.png.jpg" alt="image">
+                                        <img src="images/ItalyPhotos/Sicily/aeolian.png" alt="image">
                                     </div>
                                     <div class="trend-content-main">
                                         <div class="trend-content">
