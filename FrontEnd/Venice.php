@@ -117,7 +117,7 @@ include "header.php"
                             </div>
                             <div class="description-inner mb-2">
                                 <h4>Highlight</h4>
-                                <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
+                                <p>The locations shown above include the Grand Canal, Piazza San Marco, St. Mark's Basilica, Venice Lido, Rialto Bridge, The Bridge of Sighs, Doges Palace, Burano, Murano, and Gallerie Dell'Accademia.</p>
                                 <p class="mb-0">The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.</p>
                             </div>
 

@@ -12,22 +12,52 @@ include "header.php"
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="slide-inner">
-                           <div class="slide-image" style="background-image:url(images/slider/1.jpg)"></div>
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Milan/duomos.png)"></div>
                         </div> 
                     </div>
                     <div class="swiper-slide">
                         <div class="slide-inner">
-                            <div class="slide-image" style="background-image:url(images/slider/2.jpg)"></div>
+                            <div class="slide-image" style="background-image:url(images/ItalyPhotos/Milan/gallvitteman.png)"></div>
                         </div> 
                     </div>
                     <div class="swiper-slide">
                         <div class="slide-inner">
-                           <div class="slide-image" style="background-image:url(images/slider/3.jpg)"></div>
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Milan/lascala.png)"></div>
                         </div> 
                     </div>
                     <div class="swiper-slide">
                         <div class="slide-inner">
-                           <div class="slide-image" style="background-image:url(images/slider/4.jpg)"></div>
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Milan/mercanti.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Milan/navigli.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Milan/parcosemp.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Milan/peckrest.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Milan/quaddoro.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Milan/sforzcastle.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Milan/velaketrip.png)"></div>
                         </div> 
                     </div>
                 </div>
@@ -82,7 +112,7 @@ include "header.php"
                             </div>
                             <div class="description-inner mb-2">
                                 <h4>Highlight</h4>
-                                <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
+                                <p>The locations shown above include a Verona and Lake Garda Day Trip, Galleria Vittorio Emanuele II, Quadrilatero D'Oro, Sforzesco Castle, La Scala, Piazza Dei Mercanti, Duomo, Peck Restaurant, Parco Sempione, and Navigli.</p>
                                 <p class="mb-0">The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.</p>
                             </div>
 

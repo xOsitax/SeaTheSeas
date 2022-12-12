@@ -15,22 +15,52 @@ include "header.php"
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="slide-inner">
-                           <div class="slide-image" style="background-image:url(images/slider/1.jpg)"></div>
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Tuscany/acquacecina.png)"></div>
                         </div> 
                     </div>
                     <div class="swiper-slide">
                         <div class="slide-inner">
-                            <div class="slide-image" style="background-image:url(images/slider/2.jpg)"></div>
+                            <div class="slide-image" style="background-image:url(images/ItalyPhotos/Tuscany/boboligardens.png)"></div>
                         </div> 
                     </div>
                     <div class="swiper-slide">
                         <div class="slide-inner">
-                           <div class="slide-image" style="background-image:url(images/slider/3.jpg)"></div>
+                            <div class="slide-image" style="background-image:url(images/ItalyPhotos/Tuscany/cavalinomatto.png)"></div>
                         </div> 
                     </div>
                     <div class="swiper-slide">
                         <div class="slide-inner">
-                           <div class="slide-image" style="background-image:url(images/slider/4.jpg)"></div>
+                            <div class="slide-image" style="background-image:url(images/ItalyPhotos/Tuscany/michelangelo.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                            <div class="slide-image" style="background-image:url(images/ItalyPhotos/Tuscany/pinocchio.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                            <div class="slide-image" style="background-image:url(images/ItalyPhotos/Tuscany/pistoia.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                            <div class="slide-image" style="background-image:url(images/ItalyPhotos/Tuscany/repubblica.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Tuscany/stibbertmu.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                            <div class="slide-image" style="background-image:url(images/ItalyPhotos/Tuscany/towerofpisa.png)"></div>
+                        </div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner">
+                           <div class="slide-image" style="background-image:url(images/ItalyPhotos/Tuscany/uffizigallery.png)"></div>
                         </div> 
                     </div>
                 </div>
@@ -85,7 +115,7 @@ include "header.php"
                             </div>
                             <div class="description-inner mb-2">
                                 <h4>Highlight</h4>
-                                <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
+                                <p>The locations shown above include Uffizi Gallery, Leaning Tower of Pisa, Piazzale Michaelangelo, The Boboli Gardens, Cavallino Matto, Acqua Village Cecina, Zoo of Pistoia, Stibbert Museum, Piazza della Repubblica, Pinocchio Park, and the David of Michelangelo.</p>
                                 <p class="mb-0">The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.</p>
                             </div>
 
