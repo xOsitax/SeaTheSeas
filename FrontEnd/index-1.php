@@ -1090,7 +1090,7 @@ Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Ver
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-4">
                         <div class="footer-links">
-                            <img src="" alt="">
+                            <img src="images/STSLogo/logotext-tan.png" alt="">
                             <p class="mt-3 black">
                                 When in Rome, do as the Romans do; When elsewhere, live as they live elsewhere.
                             </p>
@@ -1119,7 +1119,7 @@ Read more about Verona Moonlight Walking Tour - https://www.viator.com/tours/Ver
                                 <li><a href="#">Feedback</a></li>
                                 <li><a href="contact.php">Contact us</a></li>
                                 <li><a href="#">Our Service</a></li>
-                                <li><a href="faq.php">FAQ</a></li>
+                                <li><a href="#">FAQ</a></li>
                             </ul>
                         </div>
                     </div>

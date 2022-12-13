@@ -82,7 +82,7 @@ include "header.php"
                     <nav aria-label="breadcrumb">
                         <ul class="breadcrumb1">
                             <li class="breadcrumb-item"><a href="#">Home</a></li>
-                            <li class="breadcrumb-item" aria-current="page">Destination Single One</li>
+                            <li class="breadcrumb-item" aria-current="page">Venice</li>
                         </ul>
                     </nav>
                 </div>
@@ -101,9 +101,9 @@ include "header.php"
                         <div class="description" id="description">
                             <div class="single-full-title border-b mb-2 pb-2">
                                 <div class="single-title">
-                                    <h3 class="mb-1">Adriatic Adventure–Zagreb to Athens</h3>
+                                    <h3 class="mb-1">The Floating City</h3>
                                     <div class="rating-main d-sm-flex align-items-center">
-                                        <p class="mb-0 mr-2"><i class="flaticon-location-pin"></i> Greater London, United Kingdom</p>
+                                        <p class="mb-0 mr-2"><i class="flaticon-location-pin"></i> Venice, Italy</p>
                                         <div class="rating mr-2">
                                             <span class="fa fa-star checked"></span>
                                             <span class="fa fa-star checked"></span>
@@ -118,81 +118,13 @@ include "header.php"
                             <div class="description-inner mb-2">
                                 <h4>Highlight</h4>
                                 <p>The locations shown above include the Grand Canal, Piazza San Marco, St. Mark's Basilica, Venice Lido, Rialto Bridge, The Bridge of Sighs, Doges Palace, Burano, Murano, and Gallerie Dell'Accademia.</p>
-                                <p class="mb-0">The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.</p>
-                            </div>
-
-                            <div class="tour-includes mb-2">
-                                <table>
-                                    <tbody>
-                                        <tr>
-                                            <td><i class="fa fa-clock-o pink mr-1" aria-hidden="true"></i> 5 Days</td>
-                                            <td><i class="fa fa-group pink mr-1" aria-hidden="true"></i> Max People : 26</td>
-                                            <td><i class="fa fa-calendar pink mr-1" aria-hidden="true"></i> Jan 18 - Dec 21</td>
-                                        </tr>
-                                        <tr>
-                                            <td><i class="fa fa-user pink mr-1" aria-hidden="true"></i> Min Age : 10+</td>
-                                            <td><i class="fa fa-map-signs pink mr-1" aria-hidden="true"></i> Pickup : Airport</td>
-                                            <td><i class="fa fa-file-alt pink mr-1" aria-hidden="true"></i> Langauge - English, Thai</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-
-                            <div class="description-inner mb-2">
-                                <div class="row">
-                                    <div class="col-lg-6 col-md-6 mb-2 pr-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Departure & Return Location</h5>
-                                            <p class="mb-0">John F.K. International Airport(Google Map)</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 mb-2 pl-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Bedroom</h5>
-                                            <p class="mb-0">4 Bedrooms</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 mb-2 pr-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Departure Time</h5>
-                                            <p class="mb-0">3 Hours Before Flight Time</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 mb-2 pl-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Departure Time</h5>
-                                            <p class="mb-0">3 Hours Before Flight Time</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 mb-2 pr-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Price Includes</h5>
-                                            <ul>
-                                                <li><i class="fa fa-check pink mr-1"></i> Air Fares</li>
-                                                <li><i class="fa fa-check pink mr-1"></i> 3 Nights Hotel Accomodation</li>
-                                                <li><i class="fa fa-check pink mr-1"></i> Tour Guide</li>
-                                                <li><i class="fa fa-check pink mr-1"></i> Entrance Fees</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 mb-2 pl-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Departure & Return Location</h5>
-                                            <ul>
-                                                <li><i class="fa fa-close pink mr-1"></i> Guide Service Fee</li>
-                                                <li><i class="fa fa-close pink mr-1"></i> Driver Service Fee</li>
-                                                <li><i class="fa fa-close pink mr-1"></i> Any Private Expenses</li>
-                                                <li><i class="fa fa-close pink mr-1"></i> Room Service Fees</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                                <p class="mb-0">Venice in Italy is a magical city that sits at the top of many travel wishlists. Founded 1,600 years ago on a cluster of islands in the Venetian Lagoon, throughout the centuries Venice has charmed many travellers with its beautiful architecture, rich catalogue of art, and deep layers of history. Nowadays, millions of people head to Venice each year eager to see for themselves its spectacular scenery and unique cultural heritage.</p>
                             </div>
 
                             <div class="description-inner mb-4">
                                 <h4>What to Expect</h4>
-                                <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
-                                <p class="mb-0">The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.</p>               
+                                <p>Venice, after all, is a car-free city where you need to rely on boats and your own feet to take you places. It is also a city that is struggling to preserve its centuries-old traditions and way of life against a world of cheap travel, fast movement, and excessive consumption.</p>
+                                <p class="mb-0">Venice can make you feel both elated and dejected. It can charm you and repel you. And it can make you fall in love with its beauty and yet do your head in with its whimsicalities. Often, within the same minute.</p>               
                             </div>
                         </div>
 
@@ -200,7 +132,7 @@ include "header.php"
                             <h4>Iternary</h4>
                             <div class="accrodion active">
                                 <div class="accrodion-title">
-                                    <h5 class="mb-0"><span>Day 1</span> - Barcelona - Zaragoza - Madrid</h5>
+                                    <h5 class="mb-0"><span>Itinerary 1</span> - Barcelona - Zaragoza - Madrid</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: block;">
                                     <div class="inner">

@@ -307,7 +307,7 @@ include "header.php"
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-4">
                         <div class="footer-links">
-                            <img src="" alt="">
+                            <img src="images/STSLogo/logotext-tan.png" alt="">
                             <p class="mt-3 black">
                                 When in Rome, do as the Romans do; When elsewhere, live as they live elsewhere.
                             </p>
@@ -336,7 +336,7 @@ include "header.php"
                                 <li><a href="#">Feedback</a></li>
                                 <li><a href="#">Contact us</a></li>
                                 <li><a href="#">Our Service</a></li>
-                                <li><a href="faq.html">FAQ</a></li>
+                                <li><a href="#">FAQ</a></li>
                             </ul>
                         </div>
                     </div>
