@@ -15,7 +15,7 @@ include "header.php"
                     <nav aria-label="breadcrumb">
                         <ul class="breadcrumb">
                             <li class="breadcrumb-item"><a href="#">Home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Popular Itinernaries</li>
+                            <li class="breadcrumb-item active" aria-current="page">Popular Itineraries</li>
                         </ul>
                     </nav>
                     <h2 class="mb-0 white text-uppercase">Accessbility Friendly</h2>
