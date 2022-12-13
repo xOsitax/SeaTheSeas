@@ -132,7 +132,7 @@ However, before going to Rome, it’s good to pay attention to details so you ca
                                 </div>
                                 <div class="accrodion-content" style="display: block;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>The Colosseum is one of the seven wonders of the world and for good reason. You can spend hours here admiring the architecture and learning about the history of the site. Due to its significance, The Colosseum is known to have very long lines to buy tickets especially during the high summer season. You can however avoid all the waiting and head directly into the site if you buy tickets ahead of time.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
@@ -142,7 +142,7 @@ However, before going to Rome, it’s good to pay attention to details so you ca
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>Vatican City is 100 acres. The city’s holy buildings are monumental in scale. Its lavishly-decorated museums house some of the world’s most celebrated artworks.The Vatican Museums consist of 26 museums and almost 5 miles of wall space with densely packed displays. You could spend days and weeks admiring and discovering all the exhibits. Pick up a map when you walk in.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
@@ -152,7 +152,7 @@ However, before going to Rome, it’s good to pay attention to details so you ca
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>The Borghese Gallery is an art museum in Rome that is open to the public; however, reservations are needed to enter the museum.The Borghese Gallery is located within the Borghese Gardens on Pincian Hill.The cost of regular adult tickets (as of August 2022) are €15 plus a €2 online booking fee, for a total of €17 per ticket.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
@@ -162,7 +162,7 @@ However, before going to Rome, it’s good to pay attention to details so you ca
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>The Pantheon in Rome is the most complete ancient building (125 AD) in Rome and one of the city's most spectacular sights.There is a wide variance in how long people will typically take to visit the Pantheon. The average tourist, probably no more than 20 minutes, some will literally be in and out in five minutes while at the other extreme others may spend an hour. If you are short on time as most visitors are to Rome, it's an ideal place to visit in the evening perhaps before finding a nice restaurant close by.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
@@ -176,7 +176,7 @@ However, before going to Rome, it’s good to pay attention to details so you ca
                                 </div>
                             </div>
                         </div>
-
+                        <!-- Review Starts-->
                         <div class="single-review mb-4" id="single-review">
                             <h4>Average Reviews</h4>
                             <div class="row d-flex align-items-center">
@@ -356,7 +356,7 @@ However, before going to Rome, it’s good to pay attention to details so you ca
                         <div class="footer-links">
                             <img src="images/STSLogo/logotext-tan.png" alt="">
                             <p class="mt-3">
-                                In ut odio libero, at vulputate urna. Nulla tristique mi a massa convallis cursus. Nulla eu mi magna
+                            When in Rome, do as the Romans do; When elsewhere, live as they live elsewhere.
                             </p>
                             <ul>
                                 <li><strong>Mailing Address:</strong> 1000 Morris Ave, Union, NJ 07083, United States of America</li>

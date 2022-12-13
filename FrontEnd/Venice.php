@@ -129,44 +129,44 @@ include "header.php"
                         </div>
 
                         <div class="accrodion-grp faq-accrodion mb-4" id="iternary" data-grp-name="faq-accrodion">
-                            <h4>Iternary</h4>
+                            <h4>Popular Iternaries</h4>
                             <div class="accrodion active">
                                 <div class="accrodion-title">
-                                    <h5 class="mb-0"><span>Itinerary 1</span> - Barcelona - Zaragoza - Madrid</h5>
+                                    <h5 class="mb-0"><span>Itinerary 1</span> - The Grand Canal</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: block;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>The Grand Canal is 3.8km (2.4 miles) in length and travels in an S shape between the two islands Venice is built upon. The Grand Canal links the entry point to Venice for most (Santa Lucia Railway Station and Piazzale Roma) and St Mark's Square where it spills out onto the open ocean.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
                             <div class="accrodion ">
                                 <div class="accrodion-title">
-                                    <h5 class="mb-0"><span>Day 2</span> - Zurich - Biel/Bienne - Neuchatel - Geneva</h5>
+                                    <h5 class="mb-0"><span>Itinerary 2</span> - St. Mark’s Basilica and the Surrounding Sights</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>Dripping with golden mosaics and full of incredible, Byzantine-style detail, St. Mark’s Basilica may just be among the most unique churches in Italy. Touring the interior of the church is free, but unless you show up early, be prepared to wait to enter–wait times regularly climb past 45 minutes!</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h5 class="mb-0"><span>Day 3</span> - Enchanting Engelberg</h5>
+                                    <h5 class="mb-0"><span>Itinerary 3</span> - The Rialto Bridge</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>The Rialto Bridge is the oldest of the four bridges that span the Grand Canal. If you are keen to go on a gondola ride then this is a good place to hop on one – prices are standardized, though not cheap for a relatively short ride. Is a gondola ride worth it? It depends: many people think it’s overrated so it’s all a matter of personal opinion! Pay 80 € for a private ride and we had a great time.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
                             <div class="accrodion ">
                                 <div class="accrodion-title">
-                                    <h5 class="mb-0"><span>Day 4</span> - Barcelona - Zaragoza - Madrid</h5>
+                                    <h5 class="mb-0"><span>Itinerary 4</span> -  Burano and Murano</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>Venice is actually made up of more than 100 islands. 2 such islands can easily be reached by vaporettos: Burano and Murano. Burano is well-known for its multi-coloured houses and picturesque canals, and is easily reachable via the line 14 vaporetto from the Zaccaria stop near the Doge’s Palace. The ferry ride takes approximately 1 hour but make sure you are punctual as ferries are not that frequent.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
@@ -176,7 +176,7 @@ include "header.php"
                             <h4>Map</h4>
                             <div class="map">
                                 <div style="width: 100%">
-                                    <iframe height="400" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1401.7577587884634!2d-74.2366013415748!3d40.68205434123272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3ad435b4c0dfd%3A0x95ccbf1c2ffea977!2sGreen%20Lane%20Academic%20Building%20%5BGLAB%5D!5e0!3m2!1sen!2sus!4v1668821342862!5m2!1sen!2sus"></iframe>
+                                    <iframe height="400" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d285151.35618687485!2d12.093214716355709!3d45.42333258084671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477eb1daf1d63d89%3A0x7ba3c6f0bd92102f!2sVenice%2C%20Metropolitan%20City%20of%20Venice%2C%20Italy!5e0!3m2!1sen!2sus!4v1670934567895!5m2!1sen!2sus"></iframe>
                                 </div>
                             </div>
                         </div>
@@ -186,26 +186,26 @@ include "header.php"
                             <div class="row d-flex align-items-center">
                                 <div class="col-lg-4 col-md-4">
                                     <div class="review-box bg-pink text-center pb-4 pt-4">
-                                        <h2 class="mb-1 white"><span>2.2</span>/5</h2>
-                                        <h4 class="white mb-1">"Feel so much worst than thinking"</h4>
+                                        <h2 class="mb-1 white"><span>4.9</span>/5</h2>
+                                        <h4 class="white mb-1">"City of Canals"</h4>
                                         <p class="mb-0 white font-italic">From 40 Reviews</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-8 col-md-8">
                                     <div class="review-progress">
                                         <div class="progress-item">
-                                            <p>Cleanliness</p>
+                                            <p>Safety</p>
                                             <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
-                                                    <span class="sr-only">40% Complete</span>
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+                                                    <span class="sr-only">75% Complete</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="progress-item">
-                                            <p>Facilities</p>
+                                            <p>Food</p>
                                             <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width:30%">
-                                                    <span class="sr-only">30% Complete</span>
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:95%">
+                                                    <span class="sr-only">95% Complete</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -218,18 +218,10 @@ include "header.php"
                                             </div>
                                         </div>
                                         <div class="progress-item">
-                                            <p>Service</p>
+                                            <p>Overall</p>
                                             <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width:20%">
-                                                    <span class="sr-only">20% Complete</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="progress-item">
-                                            <p>Location</p>
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width:45%">
-                                                    <span class="sr-only">45% Complete</span>
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+                                                    <span class="sr-only">90% Complete</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -240,14 +232,14 @@ include "header.php"
 
                         <!-- blog comment list -->
                         <div class="single-comments single-box mb-4" id="single-comments">
-                            <h5 class="border-b pb-2 mb-2">Showing 16 verified guest comments</h5>
+                            <h5 class="border-b pb-2 mb-2">Showing verified guest comments</h5>
                             <div class="comment-box">
                                 <div class="comment-image">
                                     <img src="images/reviewer/1.jpg" alt="image">
                                 </div>
                                 <div class="comment-content">
                                     <h5 class="mb-1">Helena</h5>
-                                    <p class="comment-date">April 25, 2019 at 10:46 am</p>
+                                    <p class="comment-date">April 25, 2022 at 10:46 am</p>
                                     <div class="comment-rate">
                                         <div class="rating mar-right-15">
                                             <span class="fa fa-star checked"></span>
@@ -256,10 +248,10 @@ include "header.php"
                                             <span class="fa fa-star checked"></span>
                                             <span class="fa fa-star checked"></span>
                                         </div>
-                                        <span class="comment-title">The worst hotel ever"</span>
+                                        <span class="comment-title">A Life Changing Experince</span>
                                     </div>    
                                     
-                                    <p class="comment">Take in the iconic skyline and visit the neighbourhood hangouts that you've only ever seen on TV. Take in the iconic skyline and visit the neighbourhood.</p>
+                                    <p class="comment">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam,.</p>
                                     <div class="comment-like">
                                         <div class="like-title">
                                             <a href="#" class="nir-btn">Reply</a>
@@ -277,8 +269,8 @@ include "header.php"
                                     <img src="images/reviewer/2.jpg" alt="image">
                                 </div>
                                 <div class="comment-content">
-                                    <h5 class="mb-1">Helena</h5>
-                                    <p class="comment-date">April 25, 2019 at 10:46 am</p>
+                                    <h5 class="mb-1">Thomas</h5>
+                                    <p class="comment-date">March 166, 2021 at 10:46 pm</p>
                                     <div class="comment-rate">
                                         <div class="rating mar-right-15">
                                             <span class="fa fa-star checked"></span>
@@ -287,10 +279,10 @@ include "header.php"
                                             <span class="fa fa-star checked"></span>
                                             <span class="fa fa-star checked"></span>
                                         </div>
-                                        <span class="comment-title">Was too noisy and not suitable for business meetings"</span>
+                                        <span class="comment-title">Great way to spend Honeymoon</span>
                                     </div> 
                                     
-                                    <p class="comment">Take in the iconic skyline and visit the neighbourhood hangouts that you've only ever seen on TV. Take in the iconic skyline and visit the neighbourhood.</p>
+                                    <p class="comment">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam,</p>
                                     <div class="comment-like">
                                         <div class="like-title">
                                             <a href="#" class="nir-btn">Reply</a>
@@ -366,9 +358,9 @@ include "header.php"
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-4">
                         <div class="footer-links">
-                            <img src="" alt="">
+                            <img src="images/STSLogo/logotext-tan.png" alt="">
                             <p class="mt-3">
-                                In ut odio libero, at vulputate urna. Nulla tristique mi a massa convallis cursus. Nulla eu mi magna
+                            When in Rome, do as the Romans do; When elsewhere, live as they live elsewhere.
                             </p>
                             <ul>
                                 <li><strong>Mailing Address:</strong> 1000 Morris Ave, Union, NJ 07083, United States of America</li>

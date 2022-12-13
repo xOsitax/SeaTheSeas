@@ -99,12 +99,12 @@ if (isset($_SESSION["user_id"])) {
                                     <ul class="dropdown-menu">
                                         <li><a href="Rome.php">Rome</a></li> <!---HTML link & File -->
                                         <li><a href="Venice.php">Venice</a></li> <!---HTML link & File -->
-                                        <li><a href="Florence.php">Verona</a></li> <!---HTML link & File -->
+                                       <!-- <li><a href="Florence.php">Verona</a></li> -HTML link & File -->
                                         <li><a href="Milan.php">Milan</a></li> <!---HTML link & File -->
-                                        <li><a href="Rome.html">Amalfi Coast</a></li> <!---HTML link & File -->
-                                        <li><a href="Venice.html">Sicily</a></li> <!---HTML link & File -->
-                                        <li><a href="Florence.html">Positano</a></li> <!---HTML link & File -->
-                                        <li><a href="Milan.html">Tuscany</a></li> <!---HTML link & File -->
+                                       <!-- <li><a href="Rome.html">Amalfi Coast</a></li> HTML link & File -->
+                                       <!-- <li><a href="Venice.html">Sicily</a></li> -HTML link & File -->
+                                        <!-- <li><a href="Florence.html">Positano</a></li> <-HTML link & File -->
+                                        <li><a href="Tuscany.php">Tuscany</a></li> <!---HTML link & File -->
                                      </ul> 
                                   
                                      <li class="submenu dropdown">

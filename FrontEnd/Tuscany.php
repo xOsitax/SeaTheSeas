@@ -80,7 +80,7 @@ include "header.php"
                     <nav aria-label="breadcrumb">
                         <ul class="breadcrumb1">
                             <li class="breadcrumb-item"><a href="#">Home</a></li>
-                            <li class="breadcrumb-item" aria-current="page">Destination Single One</li>
+                            <li class="breadcrumb-item" aria-current="page">Tuscany</li>
                         </ul>
                     </nav>
                 </div>
@@ -99,9 +99,9 @@ include "header.php"
                         <div class="description" id="description">
                             <div class="single-full-title border-b mb-2 pb-2">
                                 <div class="single-title">
-                                    <h3 class="mb-1">Adriatic Adventure–Zagreb to Athens</h3>
+                                    <h3 class="mb-1">The Green Hills</h3>
                                     <div class="rating-main d-sm-flex align-items-center">
-                                        <p class="mb-0 mr-2"><i class="flaticon-location-pin"></i> Greater London, United Kingdom</p>
+                                        <p class="mb-0 mr-2"><i class="flaticon-location-pin"></i> Tuscany, Italy</p>
                                         <div class="rating mr-2">
                                             <span class="fa fa-star checked"></span>
                                             <span class="fa fa-star checked"></span>
@@ -116,89 +116,21 @@ include "header.php"
                             <div class="description-inner mb-2">
                                 <h4>Highlight</h4>
                                 <p>The locations shown above include Uffizi Gallery, Leaning Tower of Pisa, Piazzale Michaelangelo, The Boboli Gardens, Cavallino Matto, Acqua Village Cecina, Zoo of Pistoia, Stibbert Museum, Piazza della Repubblica, Pinocchio Park, and the David of Michelangelo.</p>
-                                <p class="mb-0">The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.</p>
-                            </div>
-
-                            <div class="tour-includes mb-2">
-                                <table>
-                                    <tbody>
-                                        <tr>
-                                            <td><i class="fa fa-clock-o pink mr-1" aria-hidden="true"></i> 5 Days</td>
-                                            <td><i class="fa fa-group pink mr-1" aria-hidden="true"></i> Max People : 26</td>
-                                            <td><i class="fa fa-calendar pink mr-1" aria-hidden="true"></i> Jan 18 - Dec 21</td>
-                                        </tr>
-                                        <tr>
-                                            <td><i class="fa fa-user pink mr-1" aria-hidden="true"></i> Min Age : 10+</td>
-                                            <td><i class="fa fa-map-signs pink mr-1" aria-hidden="true"></i> Pickup : Airport</td>
-                                            <td><i class="fa fa-file-alt pink mr-1" aria-hidden="true"></i> Langauge - English, Thai</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-
-                            <div class="description-inner mb-2">
-                                <div class="row">
-                                    <div class="col-lg-6 col-md-6 mb-2 pr-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Departure & Return Location</h5>
-                                            <p class="mb-0">John F.K. International Airport(Google Map)</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 mb-2 pl-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Bedroom</h5>
-                                            <p class="mb-0">4 Bedrooms</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 mb-2 pr-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Departure Time</h5>
-                                            <p class="mb-0">3 Hours Before Flight Time</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 mb-2 pl-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Departure Time</h5>
-                                            <p class="mb-0">3 Hours Before Flight Time</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 mb-2 pr-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Price Includes</h5>
-                                            <ul>
-                                                <li><i class="fa fa-check pink mr-1"></i> Air Fares</li>
-                                                <li><i class="fa fa-check pink mr-1"></i> 3 Nights Hotel Accomodation</li>
-                                                <li><i class="fa fa-check pink mr-1"></i> Tour Guide</li>
-                                                <li><i class="fa fa-check pink mr-1"></i> Entrance Fees</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 mb-2 pl-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Departure & Return Location</h5>
-                                            <ul>
-                                                <li><i class="fa fa-close pink mr-1"></i> Guide Service Fee</li>
-                                                <li><i class="fa fa-close pink mr-1"></i> Driver Service Fee</li>
-                                                <li><i class="fa fa-close pink mr-1"></i> Any Private Expenses</li>
-                                                <li><i class="fa fa-close pink mr-1"></i> Room Service Fees</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                                <p class="mb-0">Tuscany is a region in central Italy. Its capital, Florence, is home to some of the world’s most recognizable Renaissance art and architecture, including Michelangelo’s "David" statue, Botticelli’s works in the Uffizi Gallery and the Duomo basilica. Its diverse natural landscape encompasses the rugged Apennine Mountains, the island of Elba’s beaches on the Tyrrhenian Sea and Chianti’s olive groves and vineyards</p>
                             </div>
 
                             <div class="description-inner mb-4">
                                 <h4>What to Expect</h4>
-                                <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
-                                <p class="mb-0">The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.</p>               
+                                <p>Tuscany is one of the most popular destinations for summer in Italy. With the Dolomites and Puglia, Tuscany recently ranked as the top spot for a summer vacation in Italy as chosen by foreigners and locals and it is easy to see why. Beautiful weather, stunning coastline and the prospect of al fresco dining with Tuscany’s amazing food and wines bring my family back to Tuscany every summer.</p>
+                                <p class="mb-0">However, Tuscany in summer is hot and if you don’t know what to expect and plan accordingly, it is not as heavenly as you may think</p>               
                             </div>
                         </div>
 
                         <div class="accrodion-grp faq-accrodion mb-4" id="iternary" data-grp-name="faq-accrodion">
-                            <h4>Iternary</h4>
+                            <h4>Popular Iternaries</h4>
                             <div class="accrodion active">
                                 <div class="accrodion-title">
-                                    <h5 class="mb-0"><span>Day 1</span> - Barcelona - Zaragoza - Madrid</h5>
+                                    <h5 class="mb-0"><span>Itinerary 1</span> -Florence</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: block;">
                                     <div class="inner">
@@ -208,7 +140,7 @@ include "header.php"
                             </div>
                             <div class="accrodion ">
                                 <div class="accrodion-title">
-                                    <h5 class="mb-0"><span>Day 2</span> - Zurich - Biel/Bienne - Neuchatel - Geneva</h5>
+                                    <h5 class="mb-0"><span>Itinerary 2</span> - Val d'Orcia</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
@@ -218,7 +150,7 @@ include "header.php"
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h5 class="mb-0"><span>Day 3</span> - Enchanting Engelberg</h5>
+                                    <h5 class="mb-0"><span>Itinerary 3</span> -San Gimigano & Volterra</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
@@ -228,7 +160,7 @@ include "header.php"
                             </div>
                             <div class="accrodion ">
                                 <div class="accrodion-title">
-                                    <h5 class="mb-0"><span>Day 4</span> - Barcelona - Zaragoza - Madrid</h5>
+                                    <h5 class="mb-0"><span>Itinerary 4</span> -Pisa</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
@@ -242,36 +174,36 @@ include "header.php"
                             <h4>Map</h4>
                             <div class="map">
                                 <div style="width: 100%">
-                                    <iframe height="400" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1401.7577587884634!2d-74.2366013415748!3d40.68205434123272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3ad435b4c0dfd%3A0x95ccbf1c2ffea977!2sGreen%20Lane%20Academic%20Building%20%5BGLAB%5D!5e0!3m2!1sen!2sus!4v1668821342862!5m2!1sen!2sus"></iframe>
+                                    <iframe height="400" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1484344.4676760405!2d10.028788117155269!3d43.39562418930847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d42b531080347b%3A0xbac6c3ba5b2059ab!2sTuscany%2C%20Italy!5e0!3m2!1sen!2sus!4v1670936658944!5m2!1sen!2sus"></iframe>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="single-review mb-4" id="single-review">
+                        <<div class="single-review mb-4" id="single-review">
                             <h4>Average Reviews</h4>
                             <div class="row d-flex align-items-center">
                                 <div class="col-lg-4 col-md-4">
                                     <div class="review-box bg-pink text-center pb-4 pt-4">
-                                        <h2 class="mb-1 white"><span>2.2</span>/5</h2>
-                                        <h4 class="white mb-1">"Feel so much worst than thinking"</h4>
-                                        <p class="mb-0 white font-italic">From 40 Reviews</p>
+                                        <h2 class="mb-1 white"><span>4.9</span>/5</h2>
+                                        <h4 class="white mb-1">"Rich History"</h4>
+                                        <p class="mb-0 white font-italic">From 155 Reviews</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-8 col-md-8">
                                     <div class="review-progress">
                                         <div class="progress-item">
-                                            <p>Cleanliness</p>
+                                            <p>Safety</p>
                                             <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
-                                                    <span class="sr-only">40% Complete</span>
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+                                                    <span class="sr-only">75% Complete</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="progress-item">
-                                            <p>Facilities</p>
+                                            <p>Food</p>
                                             <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width:30%">
-                                                    <span class="sr-only">30% Complete</span>
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:95%">
+                                                    <span class="sr-only">95% Complete</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -284,18 +216,10 @@ include "header.php"
                                             </div>
                                         </div>
                                         <div class="progress-item">
-                                            <p>Service</p>
+                                            <p>Overall</p>
                                             <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width:20%">
-                                                    <span class="sr-only">20% Complete</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="progress-item">
-                                            <p>Location</p>
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width:45%">
-                                                    <span class="sr-only">45% Complete</span>
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+                                                    <span class="sr-only">90% Complete</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -306,13 +230,13 @@ include "header.php"
 
                         <!-- blog comment list -->
                         <div class="single-comments single-box mb-4" id="single-comments">
-                            <h5 class="border-b pb-2 mb-2">Showing 16 verified guest comments</h5>
+                            <h5 class="border-b pb-2 mb-2">Showing  verified guest comments</h5>
                             <div class="comment-box">
                                 <div class="comment-image">
                                     <img src="images/reviewer/1.jpg" alt="image">
                                 </div>
                                 <div class="comment-content">
-                                    <h5 class="mb-1">Helena</h5>
+                                    <h5 class="mb-1">Karen</h5>
                                     <p class="comment-date">April 25, 2019 at 10:46 am</p>
                                     <div class="comment-rate">
                                         <div class="rating mar-right-15">
@@ -322,7 +246,7 @@ include "header.php"
                                             <span class="fa fa-star checked"></span>
                                             <span class="fa fa-star checked"></span>
                                         </div>
-                                        <span class="comment-title">The worst hotel ever"</span>
+                                        <span class="comment-title">The Best Hotel Ever</span>
                                     </div>    
                                     
                                     <p class="comment">Take in the iconic skyline and visit the neighbourhood hangouts that you've only ever seen on TV. Take in the iconic skyline and visit the neighbourhood.</p>
@@ -343,8 +267,8 @@ include "header.php"
                                     <img src="images/reviewer/2.jpg" alt="image">
                                 </div>
                                 <div class="comment-content">
-                                    <h5 class="mb-1">Helena</h5>
-                                    <p class="comment-date">April 25, 2019 at 10:46 am</p>
+                                    <h5 class="mb-1">Henry</h5>
+                                    <p class="comment-date">March 166, 2021 at 10:46 pm</p>
                                     <div class="comment-rate">
                                         <div class="rating mar-right-15">
                                             <span class="fa fa-star checked"></span>
@@ -353,10 +277,10 @@ include "header.php"
                                             <span class="fa fa-star checked"></span>
                                             <span class="fa fa-star checked"></span>
                                         </div>
-                                        <span class="comment-title">Was too noisy and not suitable for business meetings"</span>
+                                        <span class="comment-title">Solo Travel</span>
                                     </div> 
                                     
-                                    <p class="comment">Take in the iconic skyline and visit the neighbourhood hangouts that you've only ever seen on TV. Take in the iconic skyline and visit the neighbourhood.</p>
+                                    <p class="comment">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam,</p>
                                     <div class="comment-like">
                                         <div class="like-title">
                                             <a href="#" class="nir-btn">Reply</a>
@@ -432,9 +356,9 @@ include "header.php"
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-4">
                         <div class="footer-links">
-                            <img src="" alt="">
+                            <img src="images/STSLogo/logotext-tan.png" alt="">
                             <p class="mt-3">
-                                In ut odio libero, at vulputate urna. Nulla tristique mi a massa convallis cursus. Nulla eu mi magna
+                            When in Rome, do as the Romans do; When elsewhere, live as they live elsewhere.
                             </p>
                             <ul>
                                 <li><strong>Mailing Address:</strong> 1000 Morris Ave, Union, NJ 07083, United States of America</li>
