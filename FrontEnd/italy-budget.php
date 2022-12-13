@@ -52,19 +52,19 @@ include "header.php"
                                        <img src="images/ItalyPhotos/Rome/stpeters.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg2.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Milan/gallvitteman.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg3.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Amalfi Coast/cimbronegardens.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg7.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Tuscany/pistoia.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg8.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Positano/fornillo.png" alt="1">
                                     </div> 
                                     <div>
-                                        <img src="images/bg/bg2.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Sicily/antsalreg.png" alt="1">
                                     </div>   
                                 </div>
                                 <div class="slider-thumbs">
@@ -72,19 +72,19 @@ include "header.php"
                                        <img src="images/ItalyPhotos/Rome/stpeters.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg2.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Milan/gallvitteman.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg3.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Amalfi Coast/cimbronegardens.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg7.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Tuscany/pistoia.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg8.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Positano/fornillo.png" alt="1">
                                     </div>  
                                     <div>
-                                        <img src="images/bg/bg2.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Sicily/antsalreg.png" alt="1">
                                     </div> 
                                 </div>
                             </div>
@@ -109,8 +109,8 @@ include "header.php"
                             </div>
                             <div class="description-inner mb-2">
                                 <h4>Highlight</h4>
-                                <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
-                                <p class="mb-0">The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.</p>
+                                <p>The "Italy on a Budget" locations shown above include St. Peters Basilica in Rome, the Galleria Vittorio Emanuele II in Milan, Villa Cimbrone Gardens along the Amalfi Coast, Zoo of Pistoia in Tuscany, Via Fornilla in Positano, and Antonio Salinas Regional Archeological Museum in Sicily.</p>
+                                <p class="mb-0"></p>
                             </div>
 
                             <div class="tour-includes mb-2">
