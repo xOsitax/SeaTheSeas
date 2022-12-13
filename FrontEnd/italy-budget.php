@@ -13,7 +13,7 @@ include "header.php"
                     <nav aria-label="breadcrumb">
                         <ul class="breadcrumb">
                             <li class="breadcrumb-item"><a href="#">Home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Popular Iternaries</li>
+                            <li class="breadcrumb-item active" aria-current="page">Popular Itinernaries</li>
                         </ul>
                     </nav>
                     <h2 class="mb-0 white text-uppercase">Italy On A Budget</h2>
@@ -49,7 +49,7 @@ include "header.php"
                             <div class="thumbnail-images">
                                 <div class="slider-store">
                                     <div>
-                                       <img src="images/bg/bg1.jpg" alt="1">
+                                       <img src="images/ItalyPhotos/Rome/stpeters.png" alt="1">
                                     </div>
                                     <div>
                                         <img src="images/bg/bg2.jpg" alt="1">
@@ -69,7 +69,7 @@ include "header.php"
                                 </div>
                                 <div class="slider-thumbs">
                                     <div>
-                                       <img src="images/bg/bg1.jpg" alt="1">
+                                       <img src="images/ItalyPhotos/Rome/stpeters.png" alt="1">
                                     </div>
                                     <div>
                                         <img src="images/bg/bg2.jpg" alt="1">
