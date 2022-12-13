@@ -93,7 +93,7 @@ include "header.php"
                         <div class="description" id="description">
                             <div class="single-full-title border-b mb-2 pb-2">
                                 <div class="single-title">
-                                    <h3 class="mb-1">Rome-Milan-Tuscany-Amf</h3>
+                                    <h3 class="mb-1">Rome-Milan-Tuscany-Amalfi Coast</h3>
                                     <div class="rating-main d-sm-flex align-items-center">
                                         <p class="mb-0 mr-2"><i class="flaticon-location-pin"></i> Italy</p>
                                         <div class="rating mr-2">
