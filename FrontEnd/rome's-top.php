@@ -93,9 +93,9 @@ include "header.php"
                         <div class="description" id="description">
                             <div class="single-full-title border-b mb-2 pb-2">
                                 <div class="single-title">
-                                    <h3 class="mb-1">Adriatic Adventure–Zagreb to Athens</h3>
+                                    <h3 class="mb-1">Vatican City, Castel Sant'Angelo, the Colosseum, Villa Borghese, a Gelato Lovers Workshop etc...</h3>
                                     <div class="rating-main d-sm-flex align-items-center">
-                                        <p class="mb-0 mr-2"><i class="flaticon-location-pin"></i> Greater London, United Kingdom</p>
+                                        <p class="mb-0 mr-2"><i class="flaticon-location-pin"></i>Italy</p>
                                         <div class="rating mr-2">
                                             <span class="fa fa-star checked"></span>
                                             <span class="fa fa-star checked"></span>
@@ -113,74 +113,6 @@ include "header.php"
                                 <p class="mb-0"></p>
                             </div>
 
-                            <div class="tour-includes mb-2">
-                                <table>
-                                    <tbody>
-                                        <tr>
-                                            <td><i class="fa fa-clock-o pink mr-1" aria-hidden="true"></i> 5 Days</td>
-                                            <td><i class="fa fa-group pink mr-1" aria-hidden="true"></i> Max People : 26</td>
-                                            <td><i class="fa fa-calendar pink mr-1" aria-hidden="true"></i> Jan 18 - Dec 21</td>
-                                        </tr>
-                                        <tr>
-                                            <td><i class="fa fa-user pink mr-1" aria-hidden="true"></i> Min Age : 10+</td>
-                                            <td><i class="fa fa-map-signs pink mr-1" aria-hidden="true"></i> Pickup : Airport</td>
-                                            <td><i class="fa fa-file-alt pink mr-1" aria-hidden="true"></i> Langauge - English, Thai</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-
-                            <div class="description-inner mb-2">
-                                <div class="row">
-                                    <div class="col-lg-6 col-md-6 mb-2 pr-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Departure & Return Location</h5>
-                                            <p class="mb-0">John F.K. International Airport(Google Map)</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 mb-2 pl-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Bedroom</h5>
-                                            <p class="mb-0">4 Bedrooms</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 mb-2 pr-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Departure Time</h5>
-                                            <p class="mb-0">3 Hours Before Flight Time</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 mb-2 pl-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Departure Time</h5>
-                                            <p class="mb-0">3 Hours Before Flight Time</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 mb-2 pr-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Price Includes</h5>
-                                            <ul>
-                                                <li><i class="fa fa-check pink mr-1"></i> Air Fares</li>
-                                                <li><i class="fa fa-check pink mr-1"></i> 3 Nights Hotel Accomodation</li>
-                                                <li><i class="fa fa-check pink mr-1"></i> Tour Guide</li>
-                                                <li><i class="fa fa-check pink mr-1"></i> Entrance Fees</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 mb-2 pl-2">
-                                        <div class="desc-box">
-                                            <h5 class="mb-1">Departure & Return Location</h5>
-                                            <ul>
-                                                <li><i class="fa fa-close pink mr-1"></i> Guide Service Fee</li>
-                                                <li><i class="fa fa-close pink mr-1"></i> Driver Service Fee</li>
-                                                <li><i class="fa fa-close pink mr-1"></i> Any Private Expenses</li>
-                                                <li><i class="fa fa-close pink mr-1"></i> Room Service Fees</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
                             <div class="description-inner mb-4">
                                 <h4>What to Expect</h4>
                                 <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
@@ -192,7 +124,7 @@ include "header.php"
                             <h4>Iternary</h4>
                             <div class="accrodion active">
                                 <div class="accrodion-title">
-                                    <h5 class="mb-0"><span>Example 1</span> - Barcelona - Zaragoza - Madrid</h5>
+                                    <h5 class="mb-0"><span>Itinerary 1</span> - Best of Luxury Italy</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: block;">
                                     <div class="inner">
@@ -202,7 +134,7 @@ include "header.php"
                             </div>
                             <div class="accrodion ">
                                 <div class="accrodion-title">
-                                    <h5 class="mb-0"><span>Example 2</span> - Zurich - Biel/Bienne - Neuchatel - Geneva</h5>
+                                    <h5 class="mb-0"><span>Itinerary 2</span> - Fully Immersive Tour of Italy: Highlights and Hidden Gems</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
@@ -212,7 +144,7 @@ include "header.php"
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h5 class="mb-0"><span>Example 3</span> - Enchanting Engelberg</h5>
+                                    <h5 class="mb-0"><span>Itinerary 3</span> - Food-Lovers Tour of Umbria and Tuscany</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
@@ -222,7 +154,7 @@ include "header.php"
                             </div>
                             <div class="accrodion ">
                                 <div class="accrodion-title">
-                                    <h5 class="mb-0"><span>Example 4</span> - Barcelona - Zaragoza - Madrid</h5>
+                                    <h5 class="mb-0"><span>Itinerary 4</span> - Italian Adventure Rome, Amalfi Coast and Sicily</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
@@ -236,7 +168,7 @@ include "header.php"
                             <h4>Map</h4>
                             <div class="map">
                                 <div style="width: 100%">
-                                    <iframe height="400" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1401.7577587884634!2d-74.2366013415748!3d40.68205434123272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3ad435b4c0dfd%3A0x95ccbf1c2ffea977!2sGreen%20Lane%20Academic%20Building%20%5BGLAB%5D!5e0!3m2!1sen!2sus!4v1668821342862!5m2!1sen!2sus"></iframe>
+                                    <iframe height="400" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6146980.894973746!2d8.222489642715058!3d41.2118428319275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d4fe82448dd203%3A0xe22cf55c24635e6f!2sItaly!5e0!3m2!1sen!2sus!4v1670938262389!5m2!1sen!2sus"></iframe>
                                 </div>
                             </div>
                         </div>
@@ -246,26 +178,26 @@ include "header.php"
                             <div class="row d-flex align-items-center">
                                 <div class="col-lg-4 col-md-4">
                                     <div class="review-box bg-pink text-center pb-4 pt-4">
-                                        <h2 class="mb-1 white"><span>2.2</span>/5</h2>
-                                        <h4 class="white mb-1">"Feel so much worst than thinking"</h4>
+                                        <h2 class="mb-1 white"><span>4.9</span>/5</h2>
+                                        <h4 class="white mb-1">"Exploring Italy in Luxury"</h4>
                                         <p class="mb-0 white font-italic">From 40 Reviews</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-8 col-md-8">
                                     <div class="review-progress">
                                         <div class="progress-item">
-                                            <p>Cleanliness</p>
+                                            <p>Safety</p>
                                             <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
-                                                    <span class="sr-only">40% Complete</span>
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+                                                    <span class="sr-only">75% Complete</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="progress-item">
-                                            <p>Facilities</p>
+                                            <p>Food</p>
                                             <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width:30%">
-                                                    <span class="sr-only">30% Complete</span>
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:95%">
+                                                    <span class="sr-only">95% Complete</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -278,18 +210,10 @@ include "header.php"
                                             </div>
                                         </div>
                                         <div class="progress-item">
-                                            <p>Service</p>
+                                            <p>Overall</p>
                                             <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width:20%">
-                                                    <span class="sr-only">20% Complete</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="progress-item">
-                                            <p>Location</p>
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width:45%">
-                                                    <span class="sr-only">45% Complete</span>
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+                                                    <span class="sr-only">90% Complete</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -298,9 +222,10 @@ include "header.php"
                             </div>
                         </div>
 
+
                         <!-- blog comment list -->
                         <div class="single-comments single-box mb-4" id="single-comments">
-                            <h5 class="border-b pb-2 mb-2">Showing 16 verified guest comments</h5>
+                            <h5 class="border-b pb-2 mb-2">Showing verified guest comments</h5>
                             <div class="comment-box">
                                 <div class="comment-image">
                                     <img src="images/reviewer/1.jpg" alt="image">
@@ -316,7 +241,7 @@ include "header.php"
                                             <span class="fa fa-star checked"></span>
                                             <span class="fa fa-star checked"></span>
                                         </div>
-                                        <span class="comment-title">The worst hotel ever"</span>
+                                        <span class="comment-title">LIFE CHANGING!</span>
                                     </div>    
                                     
                                     <p class="comment">Take in the iconic skyline and visit the neighbourhood hangouts that you've only ever seen on TV. Take in the iconic skyline and visit the neighbourhood.</p>
@@ -347,7 +272,7 @@ include "header.php"
                                             <span class="fa fa-star checked"></span>
                                             <span class="fa fa-star checked"></span>
                                         </div>
-                                        <span class="comment-title">Was too noisy and not suitable for business meetings"</span>
+                                        <span class="comment-title">Best Vacation</span>
                                     </div> 
                                     
                                     <p class="comment">Take in the iconic skyline and visit the neighbourhood hangouts that you've only ever seen on TV. Take in the iconic skyline and visit the neighbourhood.</p>
