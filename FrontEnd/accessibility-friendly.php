@@ -31,7 +31,7 @@ include "header.php"
             <div class="col-md-12">
                 <ul id="tabs" class="nav nav-tabs bordernone">
                     <li class="active"><a data-toggle="tab" href="#description">Highlight</a></li>
-                    <li><a data-toggle="tab" href="#iternary">Iternary</a></li>
+                    <li><a data-toggle="tab" href="#iternary">Itinerary</a></li>
                     <li><a data-toggle="tab" href="#single-map">Map</a></li>
                     <li><a data-toggle="tab" href="#single-review">Reviews</a></li>
                     <li><a data-toggle="tab" href="#single-comments">Comments</a></li>
