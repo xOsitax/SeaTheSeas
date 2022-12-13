@@ -49,42 +49,42 @@ include "header.php"
                             <div class="thumbnail-images">
                                 <div class="slider-store">
                                     <div>
-                                       <img src="images/bg/bg1.jpg" alt="1">
+                                       <img src="images/ItalyPhotos/Rome/vatican.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg2.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Rome/angelo.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg3.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Rome/colosseum.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg7.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Rome/borghese.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg8.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Rome/gelato.png" alt="1">
                                     </div> 
                                     <div>
-                                        <img src="images/bg/bg2.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Rome/sancarlino.png" alt="1">
                                     </div>   
                                 </div>
                                 <div class="slider-thumbs">
                                     <div>
-                                       <img src="images/bg/bg1.jpg" alt="1">
+                                       <img src="images/ItalyPhotos/Rome/vatican.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg2.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Rome/angelo.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg3.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Rome/colosseum.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg7.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Rome/borghese.png" alt="1">
                                     </div>
                                     <div>
-                                        <img src="images/bg/bg8.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Rome/gelato.png" alt="1">
                                     </div>  
                                     <div>
-                                        <img src="images/bg/bg2.jpg" alt="1">
+                                        <img src="images/ItalyPhotos/Rome/sancarlino.png" alt="1">
                                     </div> 
                                 </div>
                             </div>
@@ -109,8 +109,8 @@ include "header.php"
                             </div>
                             <div class="description-inner mb-2">
                                 <h4>Highlight</h4>
-                                <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
-                                <p class="mb-0">The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.</p>
+                                <p>The locations shown above include Vatican City, Castel Sant'Angelo, the Colosseum, Villa Borghese, a Gelato Lovers Workshop, and San Carlino Theatre.</p>
+                                <p class="mb-0"></p>
                             </div>
 
                             <div class="tour-includes mb-2">
